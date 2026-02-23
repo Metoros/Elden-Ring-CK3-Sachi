@@ -129,9 +129,7 @@
 	holding = castle_holding
 }
 27 = {
-	culture = culture_R243G9B127
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 28 = {
 	culture = culture_jagged_peak_elden_ring
@@ -144,9 +142,7 @@
 	holding = castle_holding
 }
 30 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 31 = {
 	holding = none
@@ -160,9 +156,7 @@
 	holding = none
 }
 34 = {
-	culture = culture_R80G95B91
-	religion = faith_29_faith
-	holding = tribal_holding
+	holding = none
 }
 35 = {
 	culture = culture_altus_elden_ring
@@ -173,9 +167,7 @@
 	holding = none
 }
 37 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 38 = {
 	culture = culture_hornsent_elden_ring
@@ -193,9 +185,7 @@
 	holding = castle_holding
 }
 41 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 42 = {
 	culture = culture_liurnia_elden_ring
@@ -203,9 +193,7 @@
 	holding = castle_holding
 }
 43 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 44 = {
 	culture = culture_messmer_followers_elden_ring
@@ -221,14 +209,10 @@
 	holding = none
 }
 47 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 48 = {
-	culture = culture_R66G7B25
-	religion = faith_5_faith
-	holding = tribal_holding
+	holding = none
 }
 49 = {
 	culture = culture_caelid_elden_ring
@@ -264,9 +248,7 @@
 	holding = castle_holding
 }
 56 = {
-	culture = culture_R108G27B188
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 57 = {
 	culture = culture_gelmir_elden_ring
@@ -365,9 +347,7 @@
 	holding = castle_holding
 }
 77 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 78 = {
 	culture = culture_northerner_elden_ring
@@ -434,9 +414,7 @@
 	holding = castle_holding
 }
 92 = {
-	culture = culture_R37G163B212
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 93 = {
 	culture = culture_northerner_elden_ring
@@ -470,9 +448,7 @@
 	holding = castle_holding
 }
 100 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 101 = {
 	culture = culture_northerner_elden_ring
@@ -480,9 +456,7 @@
 	holding = castle_holding
 }
 102 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 103 = {
 	culture = culture_caelid_elden_ring
@@ -579,9 +553,7 @@
 	holding = castle_holding
 }
 123 = {
-	culture = culture_R37G163B212
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 124 = {
 	holding = none
@@ -590,9 +562,7 @@
 	holding = none
 }
 126 = {
-	culture = culture_R3G52B153
-	religion = faith_5_faith
-	holding = tribal_holding
+	holding = none
 }
 127 = {
 	culture = culture_liurnia_elden_ring
@@ -667,9 +637,7 @@
 	holding = castle_holding
 }
 143 = {
-	culture = culture_R161G41B240
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 144 = {
 	culture = culture_caelid_elden_ring
@@ -690,9 +658,7 @@
 	holding = castle_holding
 }
 148 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 149 = {
 	culture = culture_hornsent_elden_ring
@@ -718,9 +684,7 @@
 	holding = none
 }
 154 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 155 = {
 	culture = culture_messmer_followers_elden_ring
@@ -728,14 +692,10 @@
 	holding = castle_holding
 }
 156 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 157 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 158 = {
 	culture = culture_messmer_followers_elden_ring
@@ -743,17 +703,13 @@
 	holding = castle_holding
 }
 159 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 160 = {
 	holding = none
 }
 161 = {
-	culture = culture_R144G171B45
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 162 = {
 	holding = none
@@ -795,9 +751,7 @@
 	holding = castle_holding
 }
 171 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 172 = {
 	culture = culture_altus_elden_ring
@@ -822,9 +776,7 @@
 	holding = none
 }
 178 = {
-	culture = culture_R66G7B25
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 179 = {
 	culture = culture_messmer_followers_elden_ring
@@ -840,9 +792,7 @@
 	holding = none
 }
 182 = {
-	culture = culture_R95G32B186
-	religion = faith_6_faith
-	holding = tribal_holding
+	holding = none
 }
 183 = {
 	culture = culture_altus_elden_ring
@@ -886,9 +836,7 @@
 	holding = castle_holding
 }
 192 = {
-	culture = culture_R3G52B153
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 193 = {
 	holding = none
@@ -932,9 +880,7 @@
 	holding = castle_holding
 }
 202 = {
-	culture = culture_R78G49B127
-	religion = faith_8_faith
-	holding = tribal_holding
+	holding = none
 }
 203 = {
 	holding = none
@@ -952,9 +898,7 @@
 	holding = none
 }
 208 = {
-	culture = culture_R3G52B153
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 209 = {
 	culture = culture_northerner_elden_ring
@@ -996,9 +940,7 @@
 	holding = none
 }
 218 = {
-	culture = culture_R3G52B153
-	religion = faith_6_faith
-	holding = tribal_holding
+	holding = none
 }
 219 = {
 	culture = culture_northerner_elden_ring
@@ -1044,9 +986,7 @@
 	holding = castle_holding
 }
 230 = {
-	culture = culture_R37G163B212
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 231 = {
 	culture = culture_altus_elden_ring
@@ -1078,9 +1018,7 @@
 	holding = castle_holding
 }
 238 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 239 = {
 	culture = culture_northerner_elden_ring
@@ -1097,9 +1035,7 @@
 	holding = none
 }
 243 = {
-	culture = culture_R144G171B45
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 244 = {
 	holding = none
@@ -1195,9 +1131,7 @@
 	holding = castle_holding
 }
 265 = {
-	culture = culture_R227G34B110
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 266 = {
 	holding = none
@@ -1327,9 +1261,7 @@
 	holding = castle_holding
 }
 297 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 298 = {
 	holding = none
@@ -1352,9 +1284,7 @@
 	holding = castle_holding
 }
 304 = {
-	culture = culture_R108G27B188
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 305 = {
 	culture = culture_jagged_peak_elden_ring
@@ -1383,9 +1313,7 @@
 	holding = castle_holding
 }
 311 = {
-	culture = culture_R134G43B52
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 312 = {
 	holding = none
@@ -1431,9 +1359,7 @@
 	holding = castle_holding
 }
 323 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 324 = {
 	culture = culture_messmer_followers_elden_ring
@@ -1475,9 +1401,7 @@
 	holding = none
 }
 333 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 334 = {
 	holding = none
@@ -1516,9 +1440,7 @@
 	holding = none
 }
 344 = {
-	culture = culture_R95G32B186
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 345 = {
 	culture = culture_messmer_followers_elden_ring
@@ -1566,9 +1488,7 @@
 	holding = tribal_holding
 }
 356 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 357 = {
 	culture = culture_limgrave_elden_ring
@@ -1614,9 +1534,7 @@
 	holding = castle_holding
 }
 366 = {
-	culture = culture_R95G32B186
-	religion = faith_6_faith
-	holding = tribal_holding
+	holding = none
 }
 367 = {
 	culture = culture_messmer_followers_elden_ring
@@ -1624,9 +1542,7 @@
 	holding = castle_holding
 }
 368 = {
-	culture = culture_R3G52B153
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 369 = {
 	culture = culture_liurnia_elden_ring
@@ -1658,17 +1574,13 @@
 	holding = none
 }
 376 = {
-	culture = culture_R144G171B45
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 377 = {
 	holding = none
 }
 378 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 379 = {
 	culture = culture_altus_elden_ring
@@ -1676,9 +1588,7 @@
 	holding = castle_holding
 }
 380 = {
-	culture = culture_R246G237B192
-	religion = faith_24_faith
-	holding = tribal_holding
+	holding = none
 }
 381 = {
 	holding = none
@@ -1720,9 +1630,7 @@
 	holding = castle_holding
 }
 392 = {
-	culture = culture_R155G183B232
-	religion = faith_4_faith
-	holding = tribal_holding
+	holding = none
 }
 393 = {
 	culture = culture_altus_elden_ring
@@ -1730,9 +1638,7 @@
 	holding = castle_holding
 }
 394 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 395 = {
 	holding = none
@@ -1767,9 +1673,7 @@
 	holding = castle_holding
 }
 403 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 404 = {
 	culture = culture_gelmir_elden_ring
@@ -1783,9 +1687,7 @@
 	holding = none
 }
 407 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 408 = {
 	holding = none
@@ -1851,9 +1753,7 @@
 	holding = none
 }
 425 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 426 = {
 	holding = none
@@ -1880,9 +1780,7 @@
 	holding = castle_holding
 }
 432 = {
-	culture = culture_R3G52B153
-	religion = faith_5_faith
-	holding = tribal_holding
+	holding = none
 }
 433 = {
 	holding = none
@@ -2019,14 +1917,10 @@
 	holding = castle_holding
 }
 471 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 472 = {
-	culture = culture_R37G163B212
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 473 = {
 	holding = none
@@ -2035,14 +1929,10 @@
 	holding = none
 }
 475 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 476 = {
-	culture = culture_R26G87B110
-	religion = faith_3_faith
-	holding = tribal_holding
+	holding = none
 }
 477 = {
 	culture = culture_jagged_peak_elden_ring
@@ -2093,9 +1983,7 @@
 	holding = castle_holding
 }
 491 = {
-	culture = culture_R95G32B186
-	religion = faith_6_faith
-	holding = tribal_holding
+	holding = none
 }
 492 = {
 	holding = none
@@ -2320,9 +2208,7 @@
 	holding = none
 }
 554 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 555 = {
 	holding = none
@@ -2500,14 +2386,10 @@
 	holding = castle_holding
 }
 604 = {
-	culture = culture_R3G52B153
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 605 = {
-	culture = culture_R3G52B153
-	religion = faith_1_faith
-	holding = tribal_holding
+	holding = none
 }
 606 = {
 	culture = culture_frezy_hornsent_elden_ring
@@ -2549,9 +2431,7 @@
 	holding = none
 }
 617 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 618 = {
 	culture = culture_ancenstral_followers_elden_ring
@@ -2646,9 +2526,7 @@
 	holding = none
 }
 644 = {
-	culture = culture_R26G87B110
-	religion = faith_3_faith
-	holding = tribal_holding
+	holding = none
 }
 645 = {
 	holding = none
@@ -2671,9 +2549,7 @@
 	holding = none
 }
 651 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 652 = {
 	culture = culture_altus_elden_ring
@@ -3270,9 +3146,7 @@
 	holding = none
 }
 830 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 831 = {
 	culture = culture_messmer_followers_elden_ring
@@ -3302,9 +3176,7 @@
 	holding = castle_holding
 }
 838 = {
-	culture = culture_R88G53B13
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 839 = {
 	holding = none
@@ -3341,9 +3213,7 @@
 	holding = none
 }
 849 = {
-	culture = culture_R134G43B52
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 850 = {
 	holding = none
@@ -3358,9 +3228,7 @@
 	holding = none
 }
 854 = {
-	culture = culture_R227G34B110
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 855 = {
 	holding = none
@@ -3461,14 +3329,10 @@
 	holding = none
 }
 885 = {
-	culture = culture_R117G248B119
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 886 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 887 = {
 	holding = none
@@ -3546,9 +3410,7 @@
 	holding = none
 }
 910 = {
-	culture = culture_R165G255B142
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 911 = {
 	holding = none
@@ -3572,9 +3434,7 @@
 	holding = none
 }
 918 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 919 = {
 	holding = none
@@ -3650,9 +3510,7 @@
 	holding = none
 }
 942 = {
-	culture = culture_R210G238B92
-	religion = faith_32_faith
-	holding = tribal_holding
+	holding = none
 }
 943 = {
 	holding = none
@@ -3975,9 +3833,7 @@
 	holding = none
 }
 1043 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 1044 = {
 	holding = none
@@ -4734,9 +4590,7 @@
 	holding = none
 }
 1286 = {
-	culture = culture_R178G135B229
-	religion = faith_28_faith
-	holding = tribal_holding
+	holding = none
 }
 1287 = {
 	culture = culture_frezy_hornsent_elden_ring
@@ -4768,9 +4622,7 @@
 	holding = none
 }
 1296 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 1297 = {
 	culture = culture_liurnia_elden_ring
@@ -5027,9 +4879,7 @@
 	holding = none
 }
 1379 = {
-	culture = culture_R59G174B226
-	religion = faith_18_faith
-	holding = tribal_holding
+	holding = none
 }
 1380 = {
 	holding = none
@@ -5446,9 +5296,7 @@
 	holding = none
 }
 1512 = {
-	culture = culture_R26G167B227
-	religion = faith_11_faith
-	holding = tribal_holding
+	holding = none
 }
 1513 = {
 	holding = none
@@ -5554,9 +5402,7 @@
 	holding = none
 }
 1546 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 1547 = {
 	holding = none
@@ -5787,9 +5633,7 @@
 	holding = none
 }
 1623 = {
-	culture = culture_R66G7B25
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 1624 = {
 	holding = none
@@ -5801,9 +5645,7 @@
 	holding = none
 }
 1627 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 1628 = {
 	holding = none
@@ -5959,9 +5801,7 @@
 	holding = none
 }
 1677 = {
-	culture = culture_R3G52B153
-	religion = faith_6_faith
-	holding = tribal_holding
+	holding = none
 }
 1678 = {
 	holding = none
@@ -6657,9 +6497,7 @@
 	holding = none
 }
 1905 = {
-	culture = culture_R37G163B212
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 1906 = {
 	holding = none
@@ -6821,9 +6659,7 @@
 	holding = none
 }
 1959 = {
-	culture = culture_R95G32B186
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 1960 = {
 	holding = none
@@ -7011,9 +6847,7 @@
 	holding = none
 }
 2021 = {
-	culture = culture_R144G171B45
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 2022 = {
 	holding = none
@@ -7097,9 +6931,7 @@
 	holding = none
 }
 2049 = {
-	culture = culture_R110G97B115
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 2050 = {
 	holding = none
@@ -7930,9 +7762,7 @@
 	holding = none
 }
 2324 = {
-	culture = culture_R135G232B15
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 2325 = {
 	holding = none
@@ -8332,9 +8162,7 @@
 	holding = none
 }
 2456 = {
-	culture = culture_R37G163B212
-	religion = faith_0_faith
-	holding = tribal_holding
+	holding = none
 }
 2457 = {
 	holding = none
@@ -8420,9 +8248,7 @@
 	holding = none
 }
 2484 = {
-	culture = culture_R155G183B232
-	religion = faith_4_faith
-	holding = tribal_holding
+	holding = none
 }
 2485 = {
 	holding = none
@@ -8431,9 +8257,7 @@
 	holding = none
 }
 2487 = {
-	culture = culture_R242G123B24
-	religion = faith_2_faith
-	holding = tribal_holding
+	holding = none
 }
 2488 = {
 	holding = none

@@ -329,7 +329,6 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		
-	
+
 	}
 }

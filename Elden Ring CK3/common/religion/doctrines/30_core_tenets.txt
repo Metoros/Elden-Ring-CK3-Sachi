@@ -73,245 +73,50 @@
 		}
 	}
 
-	# tenet_zz_empty_5 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
+	#ELDEN RING
+	
+	tenet_primordial_curse = {
+		icon = tenet_primordial_curse
+		piety_cost = {
+			if = {
+				limit = { religion_tag = crucible_religion_elden_ring }
+				value = faith_tenet_cost_low
+			}
+			else = {
+				value = faith_tenet_cost_high
+			}
 
-		# is_shown = {
-			# always = yes
-		# }
+			# Multiplier for keeping same tenet
+			if = {
+				limit = { has_doctrine = tenet_primordial_curse }
+				multiply = faith_unchanged_doctrine_cost_mult
+			}
+		}
 
-		# can_pick = {
-			# always = yes
-		# }
-	# }
+		is_shown = {
+			OR = {
+				religion_tag = crucible_religion_elden_ring
+			}
+		}
 
-	# tenet_zz_empty_6 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
+		#can_pick = {
+			#custom_description = {
+				#text = incompatible_tenet_golden_order_desc
+				#NOT = { doctrine:tenet_golden_order = { is_in_list = selected_doctrines } }	
+			#}
+		#}
 
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_7 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_8 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_9 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_10 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_11 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_12 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_13 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_14 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_15 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_16 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_17 = {
-		# icon = core_tenet_empty
-		# piety_cost = {
-			# value = 0
-		# }
-
-		# is_shown = {
-			# always = yes
-		# }
-
-		# can_pick = {
-			# always = yes
-		# }
-	# }
-
-	# tenet_zz_empty_18 = {
-	# 	icon = core_tenet_empty
-	# 	piety_cost = {
-	# 		value = 0
-	# 	}
-
-	# 	is_shown = {
-	# 		always = yes
-	# 	}
-
-	# 	can_pick = {
-	# 		always = yes
-	# 	}
-	# }
-
-	# tenet_zz_empty_19 = {
-	# 	icon = core_tenet_empty
-	# 	piety_cost = {
-	# 		value = 0
-	# 	}
-
-	# 	is_shown = {
-	# 		always = yes
-	# 	}
-
-	# 	can_pick = {
-	# 		always = yes
-	# 	}
-	# }
-
-	# tenet_zz_empty_20 = {
-	# 	icon = core_tenet_empty
-	# 	piety_cost = {
-	# 		value = 0
-	# 	}
-
-	# 	is_shown = {
-	# 		always = yes
-	# 	}
-
-	# 	can_pick = {
-	# 		always = yes
-	# 	}
-	# }
+		parameters = {
+			mystic_birthright_active = yes		#Meant to represent those chosen by the Crucible to bear great power. As a thought, maybe copy and make new parameter increasing Omen chance? 
+		}
+		character_modifier = {
+			health = 0.5		#Representing the vitality that the crucible grants to one
+		}
+		
+		traits = {
+			virtues = { crucible_affinity crucible_knight omen_horn_trait ancient_dragon_elden_ring lesser_dragon_elden_ring }
+		}
+	}
 
 	############################
 	# Christian Faith Tenets	#
