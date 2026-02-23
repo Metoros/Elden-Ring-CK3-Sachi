@@ -41,7 +41,7 @@ god_elden_ring = {
 	
 }
 
-demigod_elden_ring = {
+demigod_elden_ring_4 = {
 	category = health
 	icon = "demigod_elden_ring.dds"
 	#shown_in_ruler_designer = no
@@ -52,15 +52,92 @@ demigod_elden_ring = {
 	years_of_fertility = 5000
 	negate_health_penalty_add = 5
 	health = 10
-	inherit_chance = 75
-	inherit_from_real_father = yes
+	
 	
 	ai_greed = very_high_positive_ai_value
 	ai_energy = very_high_positive_ai_value
+	genetic = yes
 	ai_boldness = high_positive_ai_value
 	
 	opposites = {
-		god_elden_ring
+		god_elden_ring_1
+		god_elden_ring_2
+		god_elden_ring_3
+	}
+}
+
+demigod_elden_ring_3 = {
+	category = health
+	icon = "demigod_elden_ring.dds"
+	#shown_in_ruler_designer = no
+	ruler_designer_cost = 375
+	#immortal = yes
+	#set_immortal_age = 25
+	life_expectancy = 3750
+	years_of_fertility = 3750
+	negate_health_penalty_add = 4
+	health = 8
+	
+	
+	ai_greed = very_high_positive_ai_value
+	ai_energy = very_high_positive_ai_value
+	genetic = yes
+	ai_boldness = high_positive_ai_value
+	
+	opposites = {
+		god_elden_ring_1
+		god_elden_ring_2
+		god_elden_ring_4
+	}
+}
+
+demigod_elden_ring_2 = {
+	category = health
+	icon = "demigod_elden_ring.dds"
+	#shown_in_ruler_designer = no
+	ruler_designer_cost = 250
+	#immortal = yes
+	#set_immortal_age = 25
+	life_expectancy = 2500
+	years_of_fertility = 2500
+	negate_health_penalty_add = 3
+	health = 6
+	
+	
+	ai_greed = very_high_positive_ai_value
+	ai_energy = very_high_positive_ai_value
+	genetic = yes
+	ai_boldness = high_positive_ai_value
+	
+	opposites = {
+		god_elden_ring_1
+		god_elden_ring_3
+		god_elden_ring_4
+	}
+}
+
+demigod_elden_ring_1 = {
+	category = health
+	icon = "demigod_elden_ring.dds"
+	#shown_in_ruler_designer = no
+	ruler_designer_cost = 125
+	#immortal = yes
+	#set_immortal_age = 25
+	life_expectancy = 1250
+	years_of_fertility = 1250
+	negate_health_penalty_add = 2
+	health = 4
+	
+	
+	ai_greed = very_high_positive_ai_value
+	ai_energy = very_high_positive_ai_value
+	genetic = yes
+	ai_boldness = high_positive_ai_value
+	
+	opposites = {
+		god_elden_ring_2
+		god_elden_ring_3
+		god_elden_ring_4
 	}
 }
 

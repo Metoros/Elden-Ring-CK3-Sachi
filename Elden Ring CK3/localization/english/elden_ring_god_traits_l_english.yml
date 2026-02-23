@@ -2,6 +2,10 @@
 
 trait_god_elden_ring:0 "God of an Order"
 trait_demigod_elden_ring:0 "Demigod"
+trait_demigod_elden_ring_1:0 "Demigod I"
+trait_demigod_elden_ring_2:0 "Demigod II"
+trait_demigod_elden_ring_3:0 "Demigod III"
+trait_demigod_elden_ring_4:0 "Demigod IV"
 trait_empyrean_elden_ring:0 "Empyrean"
 trait_eternal_youth_elden_ring:0 "Eternal Youth"
 trait_shardbearer_elden_ring:0 "Shardbearer"
