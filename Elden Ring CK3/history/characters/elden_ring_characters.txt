@@ -56,6 +56,9 @@ marika = {
 	
 	1.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	20.1.1 = {
 		effect = {
@@ -119,6 +122,9 @@ radagon = {
 	
 	1.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = {
@@ -184,6 +190,9 @@ rennala = {
 	
 	100.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	250.1.1 = {
 		effect = {
@@ -235,6 +244,9 @@ rellana = {
 	mother = carian_family
 	100.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -274,6 +286,9 @@ hoarah_loux = {
 	
 	20.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1000.5.25 = {
 		death = yes
@@ -317,6 +332,9 @@ morgott = {
 	
 	400.6.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1000.5.25 = {
 		death = yes
@@ -362,6 +380,9 @@ mohg = {
 	
 	400.6.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1000.5.25 = {
 		death = yes
@@ -405,6 +426,9 @@ godwyn = {
 	
 	100.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	150.1.1 = {
 		effect = {
@@ -453,6 +477,9 @@ ranni = {
 	
 	255.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -495,6 +522,9 @@ radahn = {
 	
 	265.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	800.1.1 = {
 		effect = {
@@ -547,6 +577,9 @@ rykard = {
 	
 	260.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -582,6 +615,9 @@ melina = {
 	
 	820.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -622,6 +658,9 @@ messmer = {
 	
 	45.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -665,6 +704,9 @@ miquella = {
 	
 	520.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	800.1.1 = {
 		effect = {
@@ -715,6 +757,9 @@ trina = {
 	
 	520.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -759,6 +804,9 @@ malenia = {
 	father = radagon
 	520.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -785,6 +833,9 @@ godefroy = {
 	
 	500.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	800.1.25 = {
 		death = yes
@@ -811,6 +862,9 @@ tarnished_1 = {
 	
 	500.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	800.1.25 = {
 		death = yes
@@ -837,6 +891,9 @@ tarnished_2 = {
 	
 	500.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	800.1.25 = {
 		death = yes
@@ -863,6 +920,9 @@ tarnished_3 = {
 	
 	500.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	800.1.25 = {
 		death = yes
@@ -897,6 +957,9 @@ godrick = {
 	
 	700.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1000.1.25 = {
 		death = yes
@@ -927,6 +990,9 @@ nepheli_loux = {
 	father = tarnished_3
 	820.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1000.5.25 = {
 		death = yes
@@ -960,6 +1026,9 @@ millicent = {
 	mother = malenia
 	830.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -992,6 +1061,9 @@ polyanna = {
 	mother = malenia
 	830.1.15 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1024,6 +1096,9 @@ amy = {
 	mother = malenia
 	830.1.10 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1056,6 +1131,9 @@ maureen = {
 	mother = malenia
 	830.1.5 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1088,6 +1166,9 @@ mary = {
 	mother = malenia
 	830.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1121,6 +1202,9 @@ zorayas = {
 
 	820.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1151,6 +1235,9 @@ bayle  = {
 	
 	1.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1186,6 +1273,9 @@ placidusax  = {
 			copy_reason = rival 
 			target = bayle
 		}
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = yes
@@ -1208,7 +1298,9 @@ haight  = {
 	
 	820.1.1 = {
 		birth = yes
-		
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}		
 	}
 	1200.5.25 = {
 		death = yes
@@ -1231,7 +1323,9 @@ edgar  = {
 	
 	820.1.1 = {
 		birth = yes
-		
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}		
 	}
 	1200.5.25 = {
 		death = yes
@@ -1255,7 +1349,9 @@ irina  = {
 	
 	845.1.1 = {
 		birth = yes
-		
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}		
 	}
 	1200.5.25 = {
 		death = yes
@@ -1277,7 +1373,9 @@ elemer  = {
 	
 	800.1.1 = {
 		birth = yes
-		
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}		
 	}
 	1200.5.25 = {
 		death = yes
@@ -1300,7 +1398,9 @@ maleigh  = {
 	
 	830.1.1 = {
 		birth = yes
-		
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}		
 	}
 	1200.5.25 = {
 		death = yes
@@ -1329,6 +1429,9 @@ maliketh = {
 	
 	1.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = do_not_generate_starting_family
+		}
 	}
 	1200.5.25 = {
 		death = {
