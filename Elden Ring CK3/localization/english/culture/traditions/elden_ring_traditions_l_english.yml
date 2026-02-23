@@ -21,3 +21,6 @@ tradition_stormlords_desc:0 "Our lands were once ruled by lords of storm and war
 culture_parameter_aggressive_attacker_trait_more_common:0 "The [GetTrait('aggressive_attacker').GetName( GetNullCharacter )] is more common."
 culture_parameter_wrathful_trait_more_common:0 "The [GetTrait('wrathful').GetName( GetNullCharacter )] is more common."
 culture_parameter_unlock_maa_banished_knights:0 "Can recruit [GetMaA('banished_knights').GetName] as [men_at_arms|E]"
+
+tradition_crucible_knight_name:0 "Aspects of the crucible"
+tradition_crucible_knight_desc:0 "The Crucible was once the matter where all life blended together, and attuning to it enables one to gain the abilities of beasts and utilize them to their fullest potential. However, there are some who were influenced by its primordial influence at birth and now exhibit physical malformations, be it horns, tails or wings."

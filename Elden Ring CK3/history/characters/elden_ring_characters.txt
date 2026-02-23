@@ -773,6 +773,7 @@ malenia = {
 	sexuality = bisexual
 	dynasty_house = house_malenia_erdtree
 	#dynasty = dynn_erdtree
+	give_nickname = nick_blade_of_miquella
 	set_house = house_malenia_erdtree
 	martial = 10
 	diplomacy = 10

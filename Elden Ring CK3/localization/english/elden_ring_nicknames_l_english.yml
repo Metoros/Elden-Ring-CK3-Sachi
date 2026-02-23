@@ -18,6 +18,7 @@ nick_the_lordlady_of_death:0 "the [CHARACTER.GetLadyLord|U] of Death"
 nick_the_lordlady_of_blood:0 "the [CHARACTER.GetLadyLord|U] of Blood"
 nick_the_sleeping_kingqueen:0 "Sleeping [CHARACTER.Custom('GetQueenKing')|U]"
 nick_the_gloam_eyed_kingqueen:0 "Gloam Eyed [CHARACTER.Custom('GetQueenKing')|U]"
+nick_blade_of_miquella:0 "Blade of Miquella"
 
 nick_lordlady_of_the_battlefield:0 "[CHARACTER.GetLadyLord|U] of the Battlefield"
 nick_beast_clergyman:0 "Beast Clergyman"
@@ -56,3 +57,4 @@ elden_ring_nickname_events.0001.sk:0 "Sleeping King"
 elden_ring_nickname_events.0001.sq:0 "Sleeping Queen"
 elden_ring_nickname_events.0001.bfk:0 "Gloam Eyed King"
 elden_ring_nickname_events.0001.bfq:0 "Gloam Eyed Queen"
+

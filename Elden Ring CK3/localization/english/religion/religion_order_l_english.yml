@@ -13,6 +13,7 @@
  
  golden_order:0 "Golden Order"
  golden_order_desc:0 "The Golden Order most commonly refers to a set of beliefs beginning with the removal of the Rune of Death from the Elden Ring and the golden reign of Queen Marika The Eternal, who rose through the two fingers, worshipped as the one true god. Whose demigod offspring now battle over the lands between."
- order_religion_elden_ring_adj:0 "Orders"
  golden_order_adj:0 "Golden Order"
  golden_order_adherent_plural:0 "Followers of the Golden Order"
+ 
+ order_religion_elden_ring_adj:0 "Orders"

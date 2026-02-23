@@ -42,13 +42,11 @@ dynn_morne = {
 	motto = morne_motto
 }
 
-
 dynn_briar = {
 	name = "dynn_briar"
 	culture = culture_eochaid_elden_ring
 	motto = briar_motto
 }
-
 
 dynn_marais = {
 	name = "dynn_marais"
