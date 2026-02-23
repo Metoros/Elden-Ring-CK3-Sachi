@@ -7,6 +7,34 @@ culture_descriptions = {
 			
 			culture:culture_reedlander_elden_ring = { custom_tooltip = culture_reedlander_elden_ring_desc }
 			culture:culture_limgrave_elden_ring = { custom_tooltip = culture_limgrave_elden_ring_desc }
+			culture:culture_lands_between_elden_ring = { custom_tooltip = culture_lands_between_elden_ring_desc }
+			culture:culture_badlands_elden_ring = { custom_tooltip = culture_badlands_elden_ring_desc }
+			culture:culture_giant_elden_ring = { custom_tooltip = culture_giant_elden_ring_desc }
+			culture:culture_draconian_elden_ring = { custom_tooltip = culture_draconian_elden_ring_desc }
+			culture:culture_nightfolk_elden_ring = { custom_tooltip = culture_nightfolk_elden_ring_desc }
+			culture:culture_numen_elden_ring = { custom_tooltip = culture_numen_elden_ring_desc }
+			culture:culture_astrologer_elden_ring = { custom_tooltip = culture_astrologer_elden_ring_desc }
+			culture:culture_ancenstral_followers_elden_ring = { custom_tooltip = culture_ancenstral_followers_elden_ring_desc }
+			culture:culture_hornsent_elden_ring = { custom_tooltip = culture_hornsent_elden_ring_desc }
+			culture:culture_weeping_peninsula_elden_ring = { custom_tooltip = culture_weeping_peninsula_elden_ring_desc }
+			culture:culture_caelid_elden_ring = { custom_tooltip = culture_caelid_elden_ring_desc }
+			culture:culture_altus_elden_ring = { custom_tooltip = culture_altus_elden_ring_desc }
+			culture:culture_gelmir_elden_ring = { custom_tooltip = culture_gelmir_elden_ring_desc }
+			culture:culture_zamor_elden_ring = { custom_tooltip = culture_zamor_elden_ring_desc }
+			culture:culture_messmer_followers_elden_ring = { custom_tooltip = culture_messmer_followers_elden_ring_desc }
+			culture:culture_dragonbarrow_elden_ring = { custom_tooltip = culture_dragonbarrow_elden_ring_desc }
+			culture:culture_farum_azula_elden_ring = { custom_tooltip = culture_farum_azula_elden_ring_desc }
+			culture:culture_jagged_peak_elden_ring = { custom_tooltip = culture_jagged_peak_elden_ring_desc }
+			culture:culture_nox_elden_ring = { custom_tooltip = culture_nox_elden_ring_desc }
+			culture:culture_frezy_hornsent_elden_ring = { custom_tooltip = culture_frezy_hornsent_elden_ring_desc }
+			culture:culture_shaman_elden_ring = { custom_tooltip = culture_shaman_elden_ring_desc }
+			culture:culture_culture_royal_elden_ring = { custom_tooltip = culture_royal_elden_ring_desc }
+			culture:culture_northerner_elden_ring = { custom_tooltip = culture_northerner_elden_ring_desc }
+			culture:culture_liurnia_elden_ring = { custom_tooltip = culture_liurnia_elden_ring_desc }
+			culture:culture_caria_elden_ring = { custom_tooltip = culture_caria_elden_ring_desc }
+			culture:culture_sellia_elden_ring = { custom_tooltip = culture_sellia_elden_ring_desc }
+			culture:culture_eochaid_elden_ring = { custom_tooltip = culture_eochaid_elden_ring_desc }
+			culture:culture_beast_elden_ring = { custom_tooltip = culture_beast_elden_ring_desc }
 
 			
 
