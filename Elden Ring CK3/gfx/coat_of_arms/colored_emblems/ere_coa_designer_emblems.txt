@@ -65,9 +65,10 @@ miquella_sigil.dds = { colors = 3 category = elden_ring }
 dragon_cult_alt.dds = { colors = 3 category = elden_ring }
 
 
-
-
-
+#easter egg
+cakemoth.dds = { colors = 3 category = elden_ring }
+cakemoth2.dds = { colors = 3 category = elden_ring }
+cakemoth3.dds = { colors = 3 category = elden_ring }
 
 
 

@@ -215,7 +215,7 @@
 	}	
 
 	faiths = {
-		fell_order = {
+		faith_fell = {
 			color = { 0.9 0.2 0.2 }
 			reformed_icon = fell_order
 
@@ -231,7 +231,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		formless_order = {
+		faith_formless = {
 			color = { 0.8 0.05 0.05 }
 			reformed_icon = formless_order
 
@@ -249,7 +249,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		rot_order = {
+		faith_rot = {
 			color = { 0.9 0.5 0.3 }
 			reformed_icon = rot_order
 
@@ -267,7 +267,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		old_death_order = {
+		faith_old_death = {
 			color = { 0.1 0.1 0.1 }
 			reformed_icon = death_order
 			icon = death_order
@@ -281,7 +281,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_fp3_fedayeen
 		}
-		frenzy_order = {
+		faith_frenzy = {
 			color = { 0.9 0.4 0.1 }
 			reformed_icon = frenzy_order
 
@@ -297,7 +297,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}		
-		god_snake_order = {
+		faith_god_snake = {
 			color = { 0.99 0.10 0.05 }
 			reformed_icon = god_snake_order
 
@@ -314,7 +314,7 @@
 			doctrine = tenet_fp3_fedayeen
 			doctrine = tenet_hedonistic
 		}
-		land_of_reeds_faith = {
+		faith_reedlander = {
 			color = { 0.9 0.1 0.1 }
 			reformed_icon = land_of_reeds_faith
 

@@ -1,4 +1,4 @@
-﻿cosmos_religion_elden_ring = {
+﻿cosmos_religion = {
 	family = rf_pagan
 
 	doctrine = pagan_hostility_doctrine
@@ -215,7 +215,7 @@
 	}	
 
 	faiths = {
-		moons_elden_ring = {
+		faith_moons = {
 			color = { 0.2 0.2 0.6 }
 			#reformed_icon = pagan_reformed
 			icon = moons_faith
@@ -232,7 +232,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		primeval_elden_ring = {
+		faith_primeval = {
 			color = { 0.0 0.0 0.9 }
 			#reformed_icon = primeval_faith
 			icon = primeval_faith
@@ -253,7 +253,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		academy_elden_ring = {
+		faith_academy = {
 			color = { 0.1 0.1 0.5 }
 			#reformed_icon = academy_faith
 			icon = academy_faith
@@ -270,7 +270,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		gravity_elden_ring = {
+		faith_gravity = {
 			color = { 0.7 0.2 0.7 }
 			#reformed_icon = gravity_faith
 			icon = gravity_faith
@@ -287,7 +287,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		night_faith = {
+		faith_night = {
 			color = { 0.2 0.2 0.2 }
 			reformed_icon = night_faith
 

@@ -215,7 +215,7 @@
 	}	
 
 	faiths = {
-		golden_order = {
+		faith_golden = {
 			color = { 0.9 0.9 0.1 }
 			##reformed_icon = golden_order
 
@@ -235,7 +235,7 @@
 			doctrine = tenet_pentarchy
 			doctrine = tenet_no_mind
 		}
-		unalloyed_order = {
+		faith_unalloyed = {
 			color = { 0.99 0.99 0.0 }
 			#reformed_icon = pagan_reformed
 
@@ -254,7 +254,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		kind_order = {
+		faith_kind = {
 			color = { 0.9 0.9 0.5 }
 			#reformed_icon = pagan_reformed
 
@@ -271,7 +271,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}		
-		fundamentalism_order = {
+		faith_fundamentalism = {
 			color = { 0.5 0.5 0.05 }
 			#reformed_icon = pagan_reformed
 
@@ -290,7 +290,7 @@
 			doctrine = tenet_legalism
 			doctrine = tenet_no_mind
 		}
-		perfect_order = {
+		faith_perfect = {
 			color = { 0.7 0.7 0.05 }
 			#reformed_icon = pagan_reformed
 
@@ -308,7 +308,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		despair_order = {
+		faith_despair = {
 			color = { 0.9 0.7 0.7 }
 			#reformed_icon = pagan_reformed
 
@@ -326,7 +326,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		stars_order = {
+		faith_stars = {
 			color = { 0.3 0.1 0.9 }
 			#reformed_icon = pagan_reformed
 			icon = moons_faith
@@ -345,7 +345,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		death_prince_order = {
+		faith_death_prince = {
 			color = { 0.1 0.1 0.1 }
 			#reformed_icon = pagan_reformed
 			icon = death_order
@@ -366,7 +366,7 @@
 			doctrine = tenet_fp3_fedayeen
 			doctrine = tenet_no_mind
 		}
-		dragon_cult_order = {
+		faith_dragon_cult = {
 			color = { 0.9 0.6 0.1 }
 			#reformed_icon = pagan_reformed
 
@@ -383,7 +383,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		messmer_order = {
+		faith_messmer = {
 			color = { 0.9 0.5 0.0 }
 			#reformed_icon = pagan_reformed
 
@@ -401,7 +401,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		st_trina_order = {
+		faith_st_trina = {
 			color = { 0.7 0.1 0.7 }
 			reformed_icon = st_trina_order
 

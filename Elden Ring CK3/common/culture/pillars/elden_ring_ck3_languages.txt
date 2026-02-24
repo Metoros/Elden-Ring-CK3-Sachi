@@ -1,184 +1,184 @@
-language_lands_between_elden_ring = {
+language_lands_between = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_lands_between_elden_ring
+			LANGUAGE = language_lands_between
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_lands_between_elden_ring }
+			limit = { has_cultural_pillar = language_lands_between }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_giant_elden_ring = {
+language_giant = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_giant_elden_ring
+			LANGUAGE = language_giant
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_giant_elden_ring }
+			limit = { has_cultural_pillar = language_giant }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_eochaid_elden_ring = {
+language_eochaid = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_eochaid_elden_ring
+			LANGUAGE = language_eochaid
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_eochaid_elden_ring }
+			limit = { has_cultural_pillar = language_eochaid }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_reedlander_elden_ring = {
+language_reedlander = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_reedlander_elden_ring
+			LANGUAGE = language_reedlander
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_reedlander_elden_ring }
+			limit = { has_cultural_pillar = language_reedlander }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_draconian_elden_ring = {
+language_draconian = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_draconian_elden_ring
+			LANGUAGE = language_draconian
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_draconian_elden_ring }
+			limit = { has_cultural_pillar = language_draconian }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_beast_elden_ring = {
+language_beast = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_beast_elden_ring
+			LANGUAGE = language_beast
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_beast_elden_ring }
+			limit = { has_cultural_pillar = language_beast }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_nightfolk_elden_ring = {
+language_nightfolk = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_nightfolk_elden_ring
+			LANGUAGE = language_nightfolk
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_nightfolk_elden_ring }
+			limit = { has_cultural_pillar = language_nightfolk }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_numen_elden_ring = {
+language_numen = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_numen_elden_ring
+			LANGUAGE = language_numen
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_numen_elden_ring }
+			limit = { has_cultural_pillar = language_numen }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_astrologer_elden_ring = {
+language_astrologer = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_astrologer_elden_ring
+			LANGUAGE = language_astrologer
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_astrologer_elden_ring }
+			limit = { has_cultural_pillar = language_astrologer }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_ancenstral_followers_elden_ring = {
+language_ancenstral_followers = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_ancenstral_followers_elden_ring
+			LANGUAGE = language_ancenstral_followers
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_ancenstral_followers_elden_ring }
+			limit = { has_cultural_pillar = language_ancenstral_followers }
 			multiply = 10
 		}
 	}
 	color = { 0.18 0.15 0.69 }
 }
 
-language_hornsent_elden_ring = {
+language_hornsent = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_hornsent_elden_ring
+			LANGUAGE = language_hornsent
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_hornsent_elden_ring }
+			limit = { has_cultural_pillar = language_hornsent }
 			multiply = 10
 		}
 	}

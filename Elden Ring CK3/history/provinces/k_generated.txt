@@ -1,144 +1,144 @@
 1 = {
-	culture = culture_altus_elden_ring
-	religion = dragon_cult_order
+	culture = cul_altus
+	religion = faith_dragon_cult
 	holding = castle_holding
 }
 2 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 3 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 4 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 5 = {
-	culture = culture_gelmir_elden_ring
+	culture = cul_gelmir
 	religion = death_prince_order
 	holding = castle_holding
 }
 6 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 7 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 8 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 9 = {
-	culture = culture_gelmir_elden_ring
-	religion = golden_order
+	culture = cul_gelmir
+	religion = faith_golden
 	holding = castle_holding
 }
 10 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 11 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 12 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 13 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 14 = {
-	culture = culture_liurnia_elden_ring
+	culture = cul_liurnia
 	religion = death_prince_order
 	holding = castle_holding
 }
 15 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 16 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 17 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 18 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 19 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 20 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 21 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 22 = {
-	culture = culture_liurnia_elden_ring
-	religion = primeval_elden_ring
+	culture = cul_liurnia
+	religion = faith_primeval
 	holding = castle_holding
 }
 23 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 24 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 25 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 26 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 27 = {
 	holding = none
 }
 28 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 29 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 30 = {
@@ -148,8 +148,8 @@
 	holding = none
 }
 32 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = rot_order
+	culture = cul_dragonbarrow
+	religion = faith_rot
 	holding = castle_holding
 }
 33 = {
@@ -159,8 +159,8 @@
 	holding = none
 }
 35 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 36 = {
@@ -170,39 +170,39 @@
 	holding = none
 }
 38 = {
-	culture = culture_hornsent_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_hornsent
+	religion = faith_crucible
 	holding = castle_holding
 }
 39 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 40 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 41 = {
 	holding = none
 }
 42 = {
-	culture = culture_liurnia_elden_ring
-	religion = frenzy_order
+	culture = cul_liurnia
+	religion = faith_frenzy
 	holding = castle_holding
 }
 43 = {
 	holding = none
 }
 44 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 45 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 46 = {
@@ -215,300 +215,300 @@
 	holding = none
 }
 49 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 50 = {
-	culture = culture_liurnia_elden_ring
-	religion = formless_order
+	culture = cul_liurnia
+	religion = faith_formless
 	holding = castle_holding
 }
 51 = {
 	holding = none
 }
 52 = {
-	culture = culture_royal_elden_ring
-	religion = golden_order
+	culture = cul_royal
+	religion = faith_golden
 	holding = castle_holding
 }
 53 = {
-	culture = culture_altus_elden_ring
-	religion = god_snake_order
+	culture = cul_altus
+	religion = faith_god_snake
 	holding = castle_holding
 }
 54 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 55 = {
-	culture = culture_altus_elden_ring
-	religion = dragon_cult_order
+	culture = cul_altus
+	religion = faith_dragon_cult
 	holding = castle_holding
 }
 56 = {
 	holding = none
 }
 57 = {
-	culture = culture_gelmir_elden_ring
-	religion = god_snake_order
+	culture = cul_gelmir
+	religion = faith_god_snake
 	holding = castle_holding
 }
 58 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 59 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 60 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 61 = {
-	culture = culture_hornsent_elden_ring
-	religion = rot_order
+	culture = cul_hornsent
+	religion = faith_rot
 	holding = castle_holding
 }
 62 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 63 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 64 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 65 = {
-	culture = culture_liurnia_elden_ring
-	religion = primeval_elden_ring
+	culture = cul_liurnia
+	religion = faith_primeval
 	holding = castle_holding
 }
 66 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 67 = {
-	culture = culture_altus_elden_ring
-	religion = unalloyed_order
+	culture = cul_altus
+	religion = faith_unalloyed
 	holding = castle_holding
 }
 68 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 69 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 70 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 71 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 72 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 73 = {
 	holding = none
 }
 74 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 75 = {
 	holding = none
 }
 76 = {
-	culture = culture_caria_elden_ring
-	religion = frenzy_order
+	culture = cul_caria
+	religion = faith_frenzy
 	holding = castle_holding
 }
 77 = {
 	holding = none
 }
 78 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 79 = {
 	holding = none
 }
 80 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 81 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 82 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 83 = {
-	culture = culture_altus_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_altus
+	religion = faith_crucible
 	holding = castle_holding
 }
 84 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 85 = {
-	culture = culture_liurnia_elden_ring
+	culture = cul_liurnia
 	religion = death_prince_order
 	holding = castle_holding
 }
 86 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 87 = {
 	holding = none
 }
 88 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 89 = {
 	holding = none
 }
 90 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 91 = {
-	culture = culture_limgrave_elden_ring
-	religion = formless_order
+	culture = cul_limgrave
+	religion = faith_formless
 	holding = castle_holding
 }
 92 = {
 	holding = none
 }
 93 = {
-	culture = culture_northerner_elden_ring
-	religion = frenzy_order
+	culture = cul_northerner
+	religion = faith_frenzy
 	holding = castle_holding
 }
 94 = {
 	holding = none
 }
 95 = {
-	culture = culture_northerner_elden_ring
-	religion = land_of_reeds_faith
+	culture = cul_reedlander
+	religion = faith_reedlander
 	holding = castle_holding
 }
 96 = {
 	holding = none
 }
 97 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 98 = {
-	culture = culture_altus_elden_ring
-	religion = frenzy_order
+	culture = cul_altus
+	religion = faith_frenzy
 	holding = castle_holding
 }
 99 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 100 = {
 	holding = none
 }
 101 = {
-	culture = culture_northerner_elden_ring
-	religion = land_of_reeds_faith
+	culture = cul_reedlander
+	religion = faith_reedlander
 	holding = castle_holding
 }
 102 = {
 	holding = none
 }
 103 = {
-	culture = culture_caelid_elden_ring
-	religion = rot_order
+	culture = cul_caelid
+	religion = faith_rot
 	holding = castle_holding
 }
 104 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 105 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 106 = {
 	holding = none
 }
 107 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 108 = {
-	culture = culture_caelid_elden_ring
-	religion = land_of_reeds_faith
+	culture = cul_reedlander
+	religion = faith_reedlander
 	holding = castle_holding
 }
 109 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 110 = {
-	culture = culture_gelmir_elden_ring
+	culture = cul_gelmir
 	religion = death_prince_order
 	holding = castle_holding
 }
 111 = {
-	culture = culture_hornsent_elden_ring
-	religion = rot_order
+	culture = cul_hornsent
+	religion = faith_rot
 	holding = castle_holding
 }
 112 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 113 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 114 = {
@@ -518,38 +518,38 @@
 	holding = none
 }
 116 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 117 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 118 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 119 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 120 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 121 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 122 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 123 = {
@@ -565,23 +565,23 @@
 	holding = none
 }
 127 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 128 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 129 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 130 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 131 = {
@@ -591,33 +591,33 @@
 	holding = none
 }
 133 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 134 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 135 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 136 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 137 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 138 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 139 = {
@@ -627,57 +627,57 @@
 	holding = none
 }
 141 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 142 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 143 = {
 	holding = none
 }
 144 = {
-	culture = culture_caelid_elden_ring
-	religion = rot_order
+	culture = cul_caelid
+	religion = faith_rot
 	holding = castle_holding
 }
 145 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 146 = {
 	holding = none
 }
 147 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 148 = {
 	holding = none
 }
 149 = {
-	culture = culture_hornsent_elden_ring
-	religion = rot_order
+	culture = cul_hornsent
+	religion = faith_rot
 	holding = castle_holding
 }
 150 = {
-	culture = culture_caelid_elden_ring
-	religion = rot_order
+	culture = cul_caelid
+	religion = faith_rot
 	holding = castle_holding
 }
 151 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 152 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 153 = {
@@ -687,8 +687,8 @@
 	holding = none
 }
 155 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 156 = {
@@ -698,8 +698,8 @@
 	holding = none
 }
 158 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 159 = {
@@ -715,47 +715,47 @@
 	holding = none
 }
 163 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 164 = {
-	culture = culture_gelmir_elden_ring
-	religion = golden_order
+	culture = cul_gelmir
+	religion = faith_golden
 	holding = castle_holding
 }
 165 = {
 	holding = none
 }
 166 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 167 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 168 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 169 = {
 	holding = none
 }
 170 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 171 = {
 	holding = none
 }
 172 = {
-	culture = culture_altus_elden_ring
-	religion = perfect_order
+	culture = cul_altus
+	religion = faith_perfect
 	holding = castle_holding
 }
 173 = {
@@ -768,8 +768,8 @@
 	holding = none
 }
 176 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 177 = {
@@ -779,13 +779,13 @@
 	holding = none
 }
 179 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 180 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 181 = {
@@ -795,44 +795,44 @@
 	holding = none
 }
 183 = {
-	culture = culture_altus_elden_ring
-	religion = perfect_order
+	culture = cul_altus
+	religion = faith_perfect
 	holding = castle_holding
 }
 184 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 185 = {
-	culture = culture_caelid_elden_ring
-	religion = rot_order
+	culture = cul_caelid
+	religion = faith_rot
 	holding = castle_holding
 }
 186 = {
 	holding = none
 }
 187 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 188 = {
 	holding = none
 }
 189 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 190 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 191 = {
-	culture = culture_altus_elden_ring
-	religion = unalloyed_order
+	culture = cul_altus
+	religion = faith_unalloyed
 	holding = castle_holding
 }
 192 = {
@@ -842,41 +842,41 @@
 	holding = none
 }
 194 = {
-	culture = culture_limgrave_elden_ring
+	culture = cul_limgrave
 	religion = death_prince_order
 	holding = castle_holding
 }
 195 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 196 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 197 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 198 = {
-	culture = culture_liurnia_elden_ring
-	religion = god_snake_order
+	culture = cul_liurnia
+	religion = faith_god_snake
 	holding = castle_holding
 }
 199 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 200 = {
 	holding = none
 }
 201 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 202 = {
@@ -901,36 +901,36 @@
 	holding = none
 }
 209 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 210 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 211 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 212 = {
 	holding = none
 }
 213 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 214 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 215 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 216 = {
@@ -943,18 +943,18 @@
 	holding = none
 }
 219 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 220 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 221 = {
-	culture = culture_limgrave_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_limgrave
+	religion = faith_crucible
 	holding = castle_holding
 }
 222 = {
@@ -964,8 +964,8 @@
 	holding = none
 }
 224 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 225 = {
@@ -981,16 +981,16 @@
 	holding = none
 }
 229 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 230 = {
 	holding = none
 }
 231 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 232 = {
@@ -1000,29 +1000,29 @@
 	holding = none
 }
 234 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 235 = {
 	holding = none
 }
 236 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 237 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 238 = {
 	holding = none
 }
 239 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 240 = {
@@ -1041,8 +1041,8 @@
 	holding = none
 }
 245 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 246 = {
@@ -1055,33 +1055,33 @@
 	holding = none
 }
 249 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 250 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 251 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 252 = {
-	culture = culture_gelmir_elden_ring
-	religion = god_snake_order
+	culture = cul_gelmir
+	religion = faith_god_snake
 	holding = castle_holding
 }
 253 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 254 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 255 = {
@@ -1091,43 +1091,43 @@
 	holding = none
 }
 257 = {
-	culture = culture_northerner_elden_ring
-	religion = fell_order
+	culture = cul_northerner
+	religion = faith_fell
 	holding = castle_holding
 }
 258 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 259 = {
-	culture = culture_altus_elden_ring
-	religion = formless_order
+	culture = cul_altus
+	religion = faith_formless
 	holding = castle_holding
 }
 260 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 261 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 262 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 263 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 264 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 265 = {
@@ -1137,13 +1137,13 @@
 	holding = none
 }
 267 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 268 = {
-	culture = culture_ancenstral_followers_elden_ring
-	religion = ancestor_spirit_order
+	culture = cul_ancenstral_followers
+	religion = faith_ancestor_spirit
 	holding = tribal_holding
 }
 269 = {
@@ -1156,16 +1156,16 @@
 	holding = none
 }
 272 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 273 = {
 	holding = none
 }
 274 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 275 = {
@@ -1181,83 +1181,83 @@
 	holding = none
 }
 279 = {
-	culture = culture_hornsent_elden_ring
-	religion = rot_order
+	culture = cul_hornsent
+	religion = faith_rot
 	holding = castle_holding
 }
 280 = {
 	holding = none
 }
 281 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 282 = {
 	holding = none
 }
 283 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 284 = {
 	holding = none
 }
 285 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 286 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 287 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 288 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 289 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 290 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 291 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 292 = {
 	holding = none
 }
 293 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 294 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 295 = {
 	holding = none
 }
 296 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 297 = {
@@ -1279,37 +1279,37 @@
 	holding = none
 }
 303 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 304 = {
 	holding = none
 }
 305 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 306 = {
 	holding = none
 }
 307 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 308 = {
-	culture = culture_altus_elden_ring
-	religion = formless_order
+	culture = cul_altus
+	religion = faith_formless
 	holding = castle_holding
 }
 309 = {
 	holding = none
 }
 310 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 311 = {
@@ -1325,8 +1325,8 @@
 	holding = none
 }
 315 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 316 = {
@@ -1336,49 +1336,49 @@
 	holding = none
 }
 318 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 319 = {
-	culture = culture_liurnia_elden_ring
-	religion = fell_order
+	culture = cul_liurnia
+	religion = faith_fell
 	holding = castle_holding
 }
 320 = {
 	holding = none
 }
 321 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 322 = {
-	culture = culture_gelmir_elden_ring
-	religion = golden_order
+	culture = cul_gelmir
+	religion = faith_golden
 	holding = castle_holding
 }
 323 = {
 	holding = none
 }
 324 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 325 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 326 = {
-	culture = culture_gelmir_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_gelmir
+	religion = faith_crucible
 	holding = castle_holding
 }
 327 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 328 = {
@@ -1388,13 +1388,13 @@
 	holding = none
 }
 330 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 331 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 332 = {
@@ -1413,16 +1413,16 @@
 	holding = none
 }
 337 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 338 = {
 	holding = none
 }
 339 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 340 = {
@@ -1432,8 +1432,8 @@
 	holding = none
 }
 342 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 343 = {
@@ -1443,13 +1443,13 @@
 	holding = none
 }
 345 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 346 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 347 = {
@@ -1459,18 +1459,18 @@
 	holding = none
 }
 349 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 350 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 351 = {
-	culture = culture_hornsent_elden_ring
-	religion = rot_order
+	culture = cul_hornsent
+	religion = faith_rot
 	holding = castle_holding
 }
 352 = {
@@ -1483,91 +1483,91 @@
 	holding = none
 }
 355 = {
-	culture = culture_ancenstral_followers_elden_ring
-	religion = ancestor_spirit_order
+	culture = cul_ancenstral_followers
+	religion = faith_ancestor_spirit
 	holding = tribal_holding
 }
 356 = {
 	holding = none
 }
 357 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 358 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 359 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 360 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 361 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 362 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 363 = {
 	holding = none
 }
 364 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 365 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 366 = {
 	holding = none
 }
 367 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 368 = {
 	holding = none
 }
 369 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 370 = {
 	holding = none
 }
 371 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 372 = {
 	holding = none
 }
 373 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 374 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 375 = {
@@ -1583,8 +1583,8 @@
 	holding = none
 }
 379 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 380 = {
@@ -1612,29 +1612,29 @@
 	holding = none
 }
 388 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 389 = {
 	holding = none
 }
 390 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 391 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 392 = {
 	holding = none
 }
 393 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 394 = {
@@ -1644,8 +1644,8 @@
 	holding = none
 }
 396 = {
-	culture = culture_liurnia_elden_ring
-	religion = fell_order
+	culture = cul_liurnia
+	religion = faith_fell
 	holding = castle_holding
 }
 397 = {
@@ -1658,26 +1658,26 @@
 	holding = none
 }
 400 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 401 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 402 = {
-	culture = culture_liurnia_elden_ring
-	religion = golden_order
+	culture = cul_liurnia
+	religion = faith_golden
 	holding = castle_holding
 }
 403 = {
 	holding = none
 }
 404 = {
-	culture = culture_gelmir_elden_ring
-	religion = golden_order
+	culture = cul_gelmir
+	religion = faith_golden
 	holding = castle_holding
 }
 405 = {
@@ -1696,8 +1696,8 @@
 	holding = none
 }
 410 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 411 = {
@@ -1710,13 +1710,13 @@
 	holding = none
 }
 414 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 415 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 416 = {
@@ -1726,16 +1726,16 @@
 	holding = none
 }
 418 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 419 = {
 	holding = none
 }
 420 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 421 = {
@@ -1745,8 +1745,8 @@
 	holding = none
 }
 423 = {
-	culture = culture_limgrave_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_limgrave
+	religion = faith_crucible
 	holding = castle_holding
 }
 424 = {
@@ -1762,21 +1762,21 @@
 	holding = none
 }
 428 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 429 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 430 = {
 	holding = none
 }
 431 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 432 = {
@@ -1786,16 +1786,16 @@
 	holding = none
 }
 434 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 435 = {
 	holding = none
 }
 436 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 437 = {
@@ -1817,8 +1817,8 @@
 	holding = none
 }
 443 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 444 = {
@@ -1828,8 +1828,8 @@
 	holding = none
 }
 446 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 447 = {
@@ -1839,8 +1839,8 @@
 	holding = none
 }
 449 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 450 = {
@@ -1871,8 +1871,8 @@
 	holding = none
 }
 459 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 460 = {
@@ -1885,13 +1885,13 @@
 	holding = none
 }
 463 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 464 = {
-	culture = culture_zamor_elden_ring
-	religion = golden_order
+	culture = cul_zamor
+	religion = faith_golden
 	holding = castle_holding
 }
 465 = {
@@ -1904,16 +1904,16 @@
 	holding = none
 }
 468 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 469 = {
 	holding = none
 }
 470 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 471 = {
@@ -1935,8 +1935,8 @@
 	holding = none
 }
 477 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 478 = {
@@ -1952,8 +1952,8 @@
 	holding = none
 }
 482 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 483 = {
@@ -1978,8 +1978,8 @@
 	holding = none
 }
 490 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 491 = {
@@ -2004,8 +2004,8 @@
 	holding = none
 }
 498 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 499 = {
@@ -2018,16 +2018,16 @@
 	holding = none
 }
 502 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 503 = {
 	holding = none
 }
 504 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 505 = {
@@ -2049,21 +2049,21 @@
 	holding = none
 }
 511 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = rot_order
+	culture = cul_dragonbarrow
+	religion = faith_rot
 	holding = castle_holding
 }
 512 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 513 = {
 	holding = none
 }
 514 = {
-	culture = culture_altus_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_altus
+	religion = faith_crucible
 	holding = castle_holding
 }
 515 = {
@@ -2073,13 +2073,13 @@
 	holding = none
 }
 517 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 518 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 519 = {
@@ -2089,13 +2089,13 @@
 	holding = none
 }
 521 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 522 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 523 = {
@@ -2111,8 +2111,8 @@
 	holding = none
 }
 527 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 528 = {
@@ -2128,8 +2128,8 @@
 	holding = none
 }
 532 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 533 = {
@@ -2145,8 +2145,8 @@
 	holding = none
 }
 537 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 538 = {
@@ -2156,21 +2156,21 @@
 	holding = none
 }
 540 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 541 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 542 = {
 	holding = none
 }
 543 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 544 = {
@@ -2189,16 +2189,16 @@
 	holding = none
 }
 549 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 550 = {
 	holding = none
 }
 551 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 552 = {
@@ -2226,8 +2226,8 @@
 	holding = none
 }
 560 = {
-	culture = culture_caelid_elden_ring
-	religion = rot_order
+	culture = cul_caelid
+	religion = faith_rot
 	holding = castle_holding
 }
 561 = {
@@ -2243,16 +2243,16 @@
 	holding = none
 }
 565 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 566 = {
 	holding = none
 }
 567 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 568 = {
@@ -2262,8 +2262,8 @@
 	holding = none
 }
 570 = {
-	culture = culture_gelmir_elden_ring
-	religion = god_snake_order
+	culture = cul_gelmir
+	religion = faith_god_snake
 	holding = castle_holding
 }
 571 = {
@@ -2273,26 +2273,26 @@
 	holding = none
 }
 573 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 574 = {
 	holding = none
 }
 575 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 576 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 577 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 578 = {
@@ -2305,8 +2305,8 @@
 	holding = none
 }
 581 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 582 = {
@@ -2316,8 +2316,8 @@
 	holding = none
 }
 584 = {
-	culture = culture_altus_elden_ring
-	religion = st_trina_order
+	culture = cul_altus
+	religion = faith_st_trina
 	holding = castle_holding
 }
 585 = {
@@ -2330,8 +2330,8 @@
 	holding = none
 }
 588 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 589 = {
@@ -2347,8 +2347,8 @@
 	holding = none
 }
 593 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 594 = {
@@ -2376,13 +2376,13 @@
 	holding = none
 }
 602 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 603 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 604 = {
@@ -2392,16 +2392,16 @@
 	holding = none
 }
 606 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 607 = {
 	holding = none
 }
 608 = {
-	culture = culture_altus_elden_ring
-	religion = land_of_reeds_faith
+	culture = cul_reedlander
+	religion = faith_reedlander
 	holding = castle_holding
 }
 609 = {
@@ -2420,8 +2420,8 @@
 	holding = none
 }
 614 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 615 = {
@@ -2434,8 +2434,8 @@
 	holding = none
 }
 618 = {
-	culture = culture_ancenstral_followers_elden_ring
-	religion = ancestor_spirit_order
+	culture = cul_ancenstral_followers
+	religion = faith_ancestor_spirit
 	holding = tribal_holding
 }
 619 = {
@@ -2445,8 +2445,8 @@
 	holding = none
 }
 621 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 622 = {
@@ -2468,8 +2468,8 @@
 	holding = none
 }
 628 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 629 = {
@@ -2482,16 +2482,16 @@
 	holding = none
 }
 632 = {
-	culture = culture_nox_elden_ring
-	religion = primeval_elden_ring
+	culture = cul_nox
+	religion = faith_primeval
 	holding = castle_holding
 }
 633 = {
 	holding = none
 }
 634 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 635 = {
@@ -2504,8 +2504,8 @@
 	holding = none
 }
 638 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 639 = {
@@ -2518,8 +2518,8 @@
 	holding = none
 }
 642 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 643 = {
@@ -2541,8 +2541,8 @@
 	holding = none
 }
 649 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 650 = {
@@ -2552,16 +2552,16 @@
 	holding = none
 }
 652 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 653 = {
 	holding = none
 }
 654 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 655 = {
@@ -2577,8 +2577,8 @@
 	holding = none
 }
 659 = {
-	culture = culture_liurnia_elden_ring
-	religion = primeval_elden_ring
+	culture = cul_liurnia
+	religion = faith_primeval
 	holding = castle_holding
 }
 660 = {
@@ -2594,8 +2594,8 @@
 	holding = none
 }
 664 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 665 = {
@@ -2608,8 +2608,8 @@
 	holding = none
 }
 668 = {
-	culture = culture_liurnia_elden_ring
-	religion = dragon_cult_order
+	culture = cul_liurnia
+	religion = faith_dragon_cult
 	holding = castle_holding
 }
 669 = {
@@ -2628,16 +2628,16 @@
 	holding = none
 }
 674 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 675 = {
 	holding = none
 }
 676 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 677 = {
@@ -2662,8 +2662,8 @@
 	holding = none
 }
 684 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 685 = {
@@ -2685,16 +2685,16 @@
 	holding = none
 }
 691 = {
-	culture = culture_altus_elden_ring
-	religion = formless_order
+	culture = cul_altus
+	religion = faith_formless
 	holding = castle_holding
 }
 692 = {
 	holding = none
 }
 693 = {
-	culture = culture_hornsent_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_hornsent
+	religion = faith_crucible
 	holding = castle_holding
 }
 694 = {
@@ -2704,8 +2704,8 @@
 	holding = none
 }
 696 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 697 = {
@@ -2724,8 +2724,8 @@
 	holding = none
 }
 702 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = land_of_reeds_faith
+	culture = cul_reedlander
+	religion = faith_reedlander
 	holding = castle_holding
 }
 703 = {
@@ -2735,13 +2735,13 @@
 	holding = none
 }
 705 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 706 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 707 = {
@@ -2754,8 +2754,8 @@
 	holding = none
 }
 710 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 711 = {
@@ -2765,13 +2765,13 @@
 	holding = none
 }
 713 = {
-	culture = culture_gelmir_elden_ring
-	religion = god_snake_order
+	culture = cul_gelmir
+	religion = faith_god_snake
 	holding = castle_holding
 }
 714 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 715 = {
@@ -2787,8 +2787,8 @@
 	holding = none
 }
 719 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 720 = {
@@ -2813,17 +2813,17 @@
 	holding = none
 }
 727 = {
-	culture = culture_ancenstral_followers_elden_ring
-	religion = ancestor_spirit_order
+	culture = cul_ancenstral_followers
+	religion = faith_ancestor_spirit
 	holding = tribal_holding
 }
 728 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 729 = {
-	culture = culture_northerner_elden_ring
+	culture = cul_northerner
 	religion = death_prince_order
 	holding = castle_holding
 }
@@ -2843,8 +2843,8 @@
 	holding = none
 }
 735 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 736 = {
@@ -2917,8 +2917,8 @@
 	holding = none
 }
 759 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 760 = {
@@ -2946,8 +2946,8 @@
 	holding = none
 }
 768 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 769 = {
@@ -2987,8 +2987,8 @@
 	holding = none
 }
 781 = {
-	culture = culture_altus_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_altus
+	religion = faith_crucible
 	holding = castle_holding
 }
 782 = {
@@ -3001,8 +3001,8 @@
 	holding = none
 }
 785 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 786 = {
@@ -3015,8 +3015,8 @@
 	holding = none
 }
 789 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 790 = {
@@ -3059,13 +3059,13 @@
 	holding = none
 }
 803 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 804 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 805 = {
@@ -3081,8 +3081,8 @@
 	holding = none
 }
 809 = {
-	culture = culture_hornsent_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_hornsent
+	religion = faith_crucible
 	holding = castle_holding
 }
 810 = {
@@ -3149,8 +3149,8 @@
 	holding = none
 }
 831 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 832 = {
@@ -3166,13 +3166,13 @@
 	holding = none
 }
 836 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 837 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 838 = {
@@ -3185,16 +3185,16 @@
 	holding = none
 }
 841 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 842 = {
 	holding = none
 }
 843 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 844 = {
@@ -3264,8 +3264,8 @@
 	holding = none
 }
 866 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 867 = {
@@ -3284,16 +3284,16 @@
 	holding = none
 }
 872 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 873 = {
 	holding = none
 }
 874 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 875 = {
@@ -3321,8 +3321,8 @@
 	holding = none
 }
 883 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_follow_messmer
+	religion = faith_crucible
 	holding = castle_holding
 }
 884 = {
@@ -3359,8 +3359,8 @@
 	holding = none
 }
 895 = {
-	culture = culture_gelmir_elden_ring
-	religion = rot_order
+	culture = cul_gelmir
+	religion = faith_rot
 	holding = castle_holding
 }
 896 = {
@@ -3376,8 +3376,8 @@
 	holding = none
 }
 900 = {
-	culture = culture_zamor_elden_ring
-	religion = golden_order
+	culture = cul_zamor
+	religion = faith_golden
 	holding = castle_holding
 }
 901 = {
@@ -3390,8 +3390,8 @@
 	holding = none
 }
 904 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 905 = {
@@ -3479,8 +3479,8 @@
 	holding = none
 }
 933 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = st_trina_order
+	culture = cul_follow_messmer
+	religion = faith_st_trina
 	holding = castle_holding
 }
 934 = {
@@ -3493,8 +3493,8 @@
 	holding = none
 }
 937 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 938 = {
@@ -3522,8 +3522,8 @@
 	holding = none
 }
 946 = {
-	culture = culture_hornsent_elden_ring
-	religion = kind_order
+	culture = cul_hornsent
+	religion = faith_kind
 	holding = castle_holding
 }
 947 = {
@@ -3545,16 +3545,16 @@
 	holding = none
 }
 953 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 954 = {
 	holding = none
 }
 955 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 956 = {
@@ -3603,8 +3603,8 @@
 	holding = none
 }
 971 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 972 = {
@@ -3617,8 +3617,8 @@
 	holding = none
 }
 975 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 976 = {
@@ -3721,8 +3721,8 @@
 	holding = none
 }
 1009 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 1010 = {
@@ -3738,8 +3738,8 @@
 	holding = none
 }
 1014 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 1015 = {
@@ -3752,8 +3752,8 @@
 	holding = none
 }
 1018 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 1019 = {
@@ -3781,8 +3781,8 @@
 	holding = none
 }
 1027 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 1028 = {
@@ -3792,8 +3792,8 @@
 	holding = none
 }
 1030 = {
-	culture = culture_altus_elden_ring
-	religion = rot_order
+	culture = cul_altus
+	religion = faith_rot
 	holding = castle_holding
 }
 1031 = {
@@ -3845,8 +3845,8 @@
 	holding = none
 }
 1047 = {
-	culture = culture_limgrave_elden_ring
-	religion = dragon_cult_order
+	culture = cul_limgrave
+	religion = faith_dragon_cult
 	holding = castle_holding
 }
 1048 = {
@@ -3859,8 +3859,8 @@
 	holding = none
 }
 1051 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 1052 = {
@@ -3876,8 +3876,8 @@
 	holding = none
 }
 1056 = {
-	culture = culture_caria_elden_ring
-	religion = moons_elden_ring
+	culture = cul_caria
+	religion = faith_moons
 	holding = castle_holding
 }
 1057 = {
@@ -3896,8 +3896,8 @@
 	holding = none
 }
 1062 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 1063 = {
@@ -4009,8 +4009,8 @@
 	holding = none
 }
 1099 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 1100 = {
@@ -4032,8 +4032,8 @@
 	holding = none
 }
 1106 = {
-	culture = culture_altus_elden_ring
-	religion = unalloyed_order
+	culture = cul_altus
+	religion = faith_unalloyed
 	holding = castle_holding
 }
 1107 = {
@@ -4079,8 +4079,8 @@
 	holding = none
 }
 1121 = {
-	culture = culture_hornsent_elden_ring
-	religion = crucible_elden_ring
+	culture = cul_hornsent
+	religion = faith_crucible
 	holding = castle_holding
 }
 1122 = {
@@ -4129,16 +4129,16 @@
 	holding = none
 }
 1137 = {
-	culture = culture_altus_elden_ring
-	religion = rot_order
+	culture = cul_altus
+	religion = faith_rot
 	holding = castle_holding
 }
 1138 = {
 	holding = none
 }
 1139 = {
-	culture = culture_altus_elden_ring
-	religion = kind_order
+	culture = cul_altus
+	religion = faith_kind
 	holding = castle_holding
 }
 1140 = {
@@ -4253,8 +4253,8 @@
 	holding = none
 }
 1177 = {
-	culture = culture_altus_elden_ring
-	religion = kind_order
+	culture = cul_altus
+	religion = faith_kind
 	holding = castle_holding
 }
 1178 = {
@@ -4270,8 +4270,8 @@
 	holding = none
 }
 1182 = {
-	culture = culture_messmer_followers_elden_ring
-	religion = messmer_order
+	culture = cul_follow_messmer
+	religion = faith_messmer
 	holding = castle_holding
 }
 1183 = {
@@ -4449,8 +4449,8 @@
 	holding = none
 }
 1241 = {
-	culture = culture_hornsent_elden_ring
-	religion = spiral_elden_ring
+	culture = cul_hornsent
+	religion = faith_spiral
 	holding = castle_holding
 }
 1242 = {
@@ -4469,8 +4469,8 @@
 	holding = none
 }
 1247 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = dragon_cult_order
+	culture = cul_weeping_peninsula
+	religion = faith_dragon_cult
 	holding = castle_holding
 }
 1248 = {
@@ -4480,8 +4480,8 @@
 	holding = none
 }
 1250 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 1251 = {
@@ -4593,8 +4593,8 @@
 	holding = none
 }
 1287 = {
-	culture = culture_frezy_hornsent_elden_ring
-	religion = frenzy_order
+	culture = cul_frezyhorn
+	religion = faith_frenzy
 	holding = castle_holding
 }
 1288 = {
@@ -4625,8 +4625,8 @@
 	holding = none
 }
 1297 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 1298 = {
@@ -4699,8 +4699,8 @@
 	holding = none
 }
 1321 = {
-	culture = culture_sellia_elden_ring
-	religion = gravity_elden_ring
+	culture = cul_sellia
+	religion = faith_gravity
 	holding = castle_holding
 }
 1322 = {
@@ -4731,7 +4731,7 @@
 	holding = none
 }
 1331 = {
-	culture = culture_northerner_elden_ring
+	culture = cul_northerner
 	religion = death_prince_order
 	holding = castle_holding
 }
@@ -4802,8 +4802,8 @@
 	holding = none
 }
 1354 = {
-	culture = culture_northerner_elden_ring
-	religion = golden_order
+	culture = cul_northerner
+	religion = faith_golden
 	holding = castle_holding
 }
 1355 = {
@@ -4912,8 +4912,8 @@
 	holding = none
 }
 1390 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 1391 = {
@@ -5007,8 +5007,8 @@
 	holding = none
 }
 1421 = {
-	culture = culture_weeping_peninsula_elden_ring
-	religion = golden_order
+	culture = cul_weeping_peninsula
+	religion = faith_golden
 	holding = castle_holding
 }
 1422 = {
@@ -5048,20 +5048,20 @@
 	holding = none
 }
 1434 = {
-	culture = culture_altus_elden_ring
-	religion = unalloyed_order
+	culture = cul_altus
+	religion = faith_unalloyed
 	holding = castle_holding
 }
 1435 = {
 	holding = none
 }
 1436 = {
-	culture = culture_jagged_peak_elden_ring
-	religion = bayle_dragon_elden_ring
+	culture = cul_jagged
+	religion = faith_bayle_dragon
 	holding = castle_holding
 }
 1437 = {
-	culture = culture_altus_elden_ring
+	culture = cul_altus
 	religion = death_prince_order
 	holding = castle_holding
 }
@@ -5138,8 +5138,8 @@
 	holding = none
 }
 1462 = {
-	culture = culture_limgrave_elden_ring
-	religion = golden_order
+	culture = cul_limgrave
+	religion = faith_golden
 	holding = castle_holding
 }
 1463 = {
@@ -5182,8 +5182,8 @@
 	holding = none
 }
 1476 = {
-	culture = culture_farum_azula_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_farum
+	religion = faith_ancient_dragon
 	holding = tribal_holding
 }
 1477 = {
@@ -5199,8 +5199,8 @@
 	holding = none
 }
 1481 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 1482 = {
@@ -5255,8 +5255,8 @@
 	holding = none
 }
 1499 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 1500 = {
@@ -5302,8 +5302,8 @@
 	holding = none
 }
 1514 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 1515 = {
@@ -5343,8 +5343,8 @@
 	holding = none
 }
 1527 = {
-	culture = culture_altus_elden_ring
-	religion = formless_order
+	culture = cul_altus
+	religion = faith_formless
 	holding = castle_holding
 }
 1528 = {
@@ -5687,8 +5687,8 @@
 	holding = none
 }
 1641 = {
-	culture = culture_altus_elden_ring
-	religion = formless_order
+	culture = cul_altus
+	religion = faith_formless
 	holding = castle_holding
 }
 1642 = {
@@ -5731,8 +5731,8 @@
 	holding = none
 }
 1655 = {
-	culture = culture_gelmir_elden_ring
-	religion = god_snake_order
+	culture = cul_gelmir
+	religion = faith_god_snake
 	holding = castle_holding
 }
 1656 = {
@@ -5760,8 +5760,8 @@
 	holding = none
 }
 1664 = {
-	culture = culture_ancenstral_followers_elden_ring
-	religion = ancestor_spirit_order
+	culture = cul_ancenstral_followers
+	religion = faith_ancestor_spirit
 	holding = tribal_holding
 }
 1665 = {
@@ -5843,8 +5843,8 @@
 	holding = none
 }
 1691 = {
-	culture = culture_caelid_elden_ring
-	religion = golden_order
+	culture = cul_caelid
+	religion = faith_golden
 	holding = castle_holding
 }
 1692 = {
@@ -5860,8 +5860,8 @@
 	holding = none
 }
 1696 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = ancient_dragon_elden_ring
+	culture = cul_dragonbarrow
+	religion = faith_ancient_dragon
 	holding = castle_holding
 }
 1697 = {
@@ -5994,8 +5994,8 @@
 	holding = none
 }
 1740 = {
-	culture = culture_zamor_elden_ring
-	religion = golden_order
+	culture = cul_zamor
+	religion = faith_golden
 	holding = castle_holding
 }
 1741 = {
@@ -6230,8 +6230,8 @@
 	holding = none
 }
 1818 = {
-	culture = culture_liurnia_elden_ring
-	religion = academy_elden_ring
+	culture = cul_liurnia
+	religion = faith_academy
 	holding = castle_holding
 }
 1819 = {
@@ -6268,8 +6268,8 @@
 	holding = none
 }
 1830 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 1831 = {
@@ -6282,8 +6282,8 @@
 	holding = none
 }
 1834 = {
-	culture = culture_altus_elden_ring
-	religion = rot_order
+	culture = cul_altus
+	religion = faith_rot
 	holding = castle_holding
 }
 1835 = {
@@ -6755,8 +6755,8 @@
 	holding = none
 }
 1991 = {
-	culture = culture_ancenstral_followers_elden_ring
-	religion = ancestor_spirit_order
+	culture = cul_ancenstral_followers
+	religion = faith_ancestor_spirit
 	holding = tribal_holding
 }
 1992 = {
@@ -7153,8 +7153,8 @@
 	holding = none
 }
 2123 = {
-	culture = culture_altus_elden_ring
-	religion = golden_order
+	culture = cul_altus
+	religion = faith_golden
 	holding = castle_holding
 }
 2124 = {
@@ -7254,7 +7254,7 @@
 	holding = none
 }
 2156 = {
-	culture = culture_limgrave_elden_ring
+	culture = cul_limgrave
 	religion = death_prince_order
 	holding = castle_holding
 }
@@ -7583,7 +7583,7 @@
 	holding = none
 }
 2265 = {
-	culture = culture_northerner_elden_ring
+	culture = cul_northerner
 	religion = death_prince_order
 	holding = castle_holding
 }
@@ -7801,8 +7801,8 @@
 	holding = none
 }
 2337 = {
-	culture = culture_nox_elden_ring
-	religion = night_faith
+	culture = cul_nox
+	religion = faith_night
 	holding = castle_holding
 }
 2338 = {
@@ -8067,8 +8067,8 @@
 	holding = none
 }
 2425 = {
-	culture = culture_dragonbarrow_elden_ring
-	religion = golden_order
+	culture = cul_dragonbarrow
+	religion = faith_golden
 	holding = castle_holding
 }
 2426 = {
@@ -8213,7 +8213,7 @@
 	holding = none
 }
 2473 = {
-	culture = culture_altus_elden_ring
+	culture = cul_altus
 	religion = death_prince_order
 	holding = castle_holding
 }

@@ -1,5 +1,5 @@
-﻿crucible_religion_elden_ring = {
-	family = rf_elden_ring_crucible
+﻿crucible_religion = {
+	family = rf_crucible
 
 	doctrine = pagan_hostility_doctrine
 
@@ -215,7 +215,7 @@
 	}	
 
 	faiths = {
-		spiral_elden_ring = {
+		faith_spiral = {
 			color = { 0.7 0.7 0.5 }
 			reformed_icon = spiral_faith
 			icon = spiral_faith
@@ -231,7 +231,7 @@
 			doctrine = tenet_sanctity_of_nature
 			doctrine = tenet_primordial_curse
 		}
-		shaman_elden_ring = {
+		faith_shaman = {
 			color = { 0.2 0.9 0.2 }
 			reformed_icon = crucible_faith
 			icon = crucible_faith
@@ -247,7 +247,7 @@
 			doctrine = tenet_ancestor_worship
 			doctrine = tenet_sanctity_of_nature
 		}
-		crucible_elden_ring = {
+		faith_crucible = {
 			color = { 0.6 0.8 0.4 }
 			reformed_icon = crucible_faith
 			icon = crucible_faith
@@ -265,7 +265,7 @@
 			doctrine = tenet_sanctity_of_nature
 			doctrine = tenet_primordial_curse
 		}
-		ancient_dragon_elden_ring = {
+		faith_ancient_dragon = {
 			color = { 0.7 0.7 0.7 }
 			reformed_icon = crucible_faith
 			icon = crucible_faith
@@ -282,7 +282,7 @@
 			doctrine = tenet_sanctity_of_nature
 			doctrine = tenet_primordial_curse
 		}
-		bayle_dragon_elden_ring = {
+		faith_bayle_dragon = {
 			color = { 0.9 0.7 0.7 }
 			reformed_icon = bayle_faith
 			icon = bayle_faith
@@ -299,7 +299,7 @@
 			doctrine = tenet_sanctity_of_nature
 			doctrine = tenet_primordial_curse
 		}
-		ancestor_spirit_order = {
+		faith_ancestor_spirit = {
 			color = { 0.1 0.8 0.8 }
 			reformed_icon = spirit_faith
 			icon = spirit_faith

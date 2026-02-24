@@ -1,10 +1,10 @@
-#base cultures
-culture_lands_between_elden_ring = { 
+#base culs
+cul_landsbetween = { 
 	color = { 0.98 0.79 0.24 }
 
 	ethos = ethos_communal
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -29,19 +29,19 @@ culture_lands_between_elden_ring = {
 	}
 }
 
-culture_badlands_elden_ring = { 
+cul_badlands = { 
 	color = { 0.80 0.50 0.1 }
 
 	ethos = ethos_bellicose
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_battlefield_looters
 		tradition_only_the_strong
 		tradition_quarrelsome
-		tradition_warrior_culture
+		tradition_warrior_cul
 	}
 
 	name_list = name_list_frankish
@@ -60,12 +60,12 @@ culture_badlands_elden_ring = {
 	}
 }
 
-culture_giant_elden_ring = { 
+cul_giant = { 
 	color = { 0.68 0.11 0.0 }
 
 	ethos = ethos_spiritual
-	heritage = heritage_giant_elden_ring
-	language = language_giant_elden_ring
+	heritage = heritage_giant
+	language = language_giant
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -89,12 +89,12 @@ culture_giant_elden_ring = {
 	}
 }
 
-culture_reedlander_elden_ring = { 
+cul_reedlander = { 
 	color = { 0.99 0.05 0.05 }
 
 	ethos = ethos_bellicose
-	heritage = heritage_reedlander_elden_ring
-	language = language_reedlander_elden_ring
+	heritage = heritage_reedlander
+	language = language_reedlander
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -117,12 +117,12 @@ culture_reedlander_elden_ring = {
 	}
 }
 
-culture_draconian_elden_ring = { 
+cul_draconian = { 
 	color = { 0.05 0.05 0.05 }
 
 	ethos = ethos_stoic
-	heritage = heritage_draconian_elden_ring
-	language = language_draconian_elden_ring
+	heritage = heritage_draconian
+	language = language_draconian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -147,12 +147,12 @@ culture_draconian_elden_ring = {
 	}
 }
 
-culture_nightfolk_elden_ring = { 
+cul_nightfolk = { 
 	color = { 0.80 0.80 0.80 }
 
 	ethos = ethos_courtly
-	heritage = heritage_nightfolk_elden_ring
-	language = language_nightfolk_elden_ring
+	heritage = heritage_nightfolk
+	language = language_nightfolk
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -177,16 +177,16 @@ culture_nightfolk_elden_ring = {
 	}
 }
 
-culture_numen_elden_ring = { 
+cul_numen = { 
 	color = { 0.10 0.8 0.10 }
 
 	ethos = ethos_spiritual
-	heritage = heritage_numen_elden_ring
-	language = language_numen_elden_ring
+	heritage = heritage_numen
+	language = language_numen
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_culture_blending
+		tradition_cul_blending
 		tradition_religion_blending
 		tradition_diasporic
 	}
@@ -207,12 +207,12 @@ culture_numen_elden_ring = {
 	}
 }
 
-culture_astrologer_elden_ring = { 
+cul_astrologer = { 
 	color = { 0.10 0.10 0.80 }
 
 	ethos = ethos_bureaucratic
-	heritage = heritage_astrologer_elden_ring
-	language = language_astrologer_elden_ring
+	heritage = heritage_astrologer
+	language = language_astrologer
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -238,12 +238,12 @@ culture_astrologer_elden_ring = {
 	}
 }
 
-culture_ancenstral_followers_elden_ring = { 
+cul_ancenstral_followers = { 
 	color = { 0.11 0.90 0.67 }
 
 	ethos = ethos_spiritual
-	heritage = heritage_ancenstral_followers_elden_ring
-	language = language_ancenstral_followers_elden_ring
+	heritage = heritage_ancenstral_followers
+	language = language_ancenstral_followers
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -268,12 +268,12 @@ culture_ancenstral_followers_elden_ring = {
 	}
 }
 
-culture_hornsent_elden_ring = { 
+cul_hornsent = { 
 	color = { 0.77 0.77 0.05 }
 
 	ethos = ethos_spiritual
-	heritage = heritage_hornsent_elden_ring
-	language = language_hornsent_elden_ring
+	heritage = heritage_hornsent
+	language = language_hornsent
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -299,15 +299,15 @@ culture_hornsent_elden_ring = {
 	}
 }
 
-#more diverse cultures
-culture_limgrave_elden_ring = { 
+#more diverse culs
+cul_limgrave = { 
 	color = { 0.95 0.87 0.06 }
-	parents = { culture_lands_between_elden_ring }
+	parents = { cul_lands_between }
 	created = 476.11.4
-	history_loc_override = created_long_ago_elden_ring_loc
+	history_loc_override = created_long_ago_loc
 	ethos = ethos_communal
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -333,15 +333,15 @@ culture_limgrave_elden_ring = {
 	}
 }
 
-culture_weeping_peninsula_elden_ring = { 
+cul_weeping_peninsula = { 
 	color = { 0.93 0.99 0.59 }
-	parents = { culture_limgrave_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_limgrave }
+	history_loc_override = created_long_ago_loc
 	
 	created = 476.11.4
 	ethos = ethos_stoic
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -367,14 +367,14 @@ culture_weeping_peninsula_elden_ring = {
 	}
 }
 
-culture_caelid_elden_ring = { 
+cul_caelid = { 
 	color = { 0.5 0.05 0.05 }
-	parents = { culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_bellicose
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -400,14 +400,14 @@ culture_caelid_elden_ring = {
 	}
 }
 
-culture_altus_elden_ring = { 
+cul_altus = { 
 	color = { 0.98 0.79 0.24 }
-	parents = { culture_lands_between_elden_ring culture_badlands_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_lands_between cul_badlands }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -434,14 +434,14 @@ culture_altus_elden_ring = {
 	}
 }
 
-culture_gelmir_elden_ring = { 
+cul_gelmir = { 
 	color = { 0.99 0.53 0.10 }
-	parents = { culture_altus_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_altus }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_bureaucratic
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -467,14 +467,14 @@ culture_gelmir_elden_ring = {
 	}
 }
 
-culture_zamor_elden_ring = { 
+cul_zamor = { 
 	color = { 0.84 0.95 0.99 }
-	parents = { culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_stoic
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -500,14 +500,14 @@ culture_zamor_elden_ring = {
 	}
 }
 
-culture_messmer_followers_elden_ring = { 
+cul_follow_messmer = { 
 	color = { 0.99 0.46 0.14 }
-	parents = { culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_bellicose
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -533,15 +533,15 @@ culture_messmer_followers_elden_ring = {
 	}
 }
 
-culture_dragonbarrow_elden_ring = { 
+cul_dragonbarrow = { 
 	
 	color = { 0.5 0.7 0.5 }
-	parents = { culture_draconian_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_draconian }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_communal
-	heritage = heritage_draconian_elden_ring
-	language = language_draconian_elden_ring
+	heritage = heritage_draconian
+	language = language_draconian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -567,21 +567,20 @@ culture_dragonbarrow_elden_ring = {
 	}
 }
 
-culture_farum_azula_elden_ring = { 
-	
+cul_farum = { 	
 	color = { 0.5 0.5 0.7 }
-	parents = { culture_draconian_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_draconian }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_spiritual
-	heritage = heritage_draconian_elden_ring
-	language = language_draconian_elden_ring
+	heritage = heritage_draconian
+	language = language_draconian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_dragon_communion
 		tradition_by_the_sword
-		tradition_philosopher_culture
+		tradition_philosopher_cul
 		tradition_ruling_caste
 	}
 
@@ -601,14 +600,14 @@ culture_farum_azula_elden_ring = {
 	}
 }
 
-culture_jagged_peak_elden_ring = { 
+cul_jagged = { 
 	color = { 0.7 0.5 0.5 }
-	parents = { culture_draconian_elden_ring }
+	parents = { cul_draconian }
 	created = 476.11.4
-	history_loc_override = created_long_ago_elden_ring_loc
+	history_loc_override = created_long_ago_loc
 	ethos = ethos_bellicose
-	heritage = heritage_draconian_elden_ring
-	language = language_draconian_elden_ring
+	heritage = heritage_draconian
+	language = language_draconian
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -634,19 +633,19 @@ culture_jagged_peak_elden_ring = {
 	}
 }
 
-culture_nox_elden_ring = { 
+cul_nox = { 
 	color = { 0.80 0.80 0.80 }
-	parents = { culture_nightfolk_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_nightfolk }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_nightfolk_elden_ring
-	language = language_nightfolk_elden_ring
+	heritage = heritage_nightfolk
+	language = language_nightfolk
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_sorcerous_metallurgy
-		tradition_philosopher_culture
+		tradition_philosopher_cul
 		tradition_adaptive_skirmishing
 		tradition_city_keepers
 	}
@@ -667,21 +666,21 @@ culture_nox_elden_ring = {
 	}
 }
 
-culture_frezy_hornsent_elden_ring = { 
+cul_frezyhorn = { 
 	color = { 0.94 0.67 0.10 }
-	parents = { culture_hornsent_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_hornsent }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_spiritual
-	heritage = heritage_hornsent_elden_ring
-	language = language_hornsent_elden_ring
+	heritage = heritage_hornsent
+	language = language_hornsent
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_frenzied_flame
 		tradition_zealous_people
 		tradition_wetlanders
-		tradition_philosopher_culture
+		tradition_philosopher_cul
 	}
 
 	name_list = name_list_frankish
@@ -700,14 +699,14 @@ culture_frezy_hornsent_elden_ring = {
 	}
 }
 
-culture_shaman_elden_ring = { 
+cul_shaman = { 
 		color = { 0.3 0.8 0.10 }
-	parents = { culture_numen_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_numen }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_spiritual
-	heritage = heritage_numen_elden_ring
-	language = language_numen_elden_ring
+	heritage = heritage_numen
+	language = language_numen
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -733,14 +732,14 @@ culture_shaman_elden_ring = {
 	}
 }
 
-culture_royal_elden_ring = { 
+cul_royal = { 
 	color = { 0.9 0.80 0.50 }
-	parents = { culture_numen_elden_ring culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_numen cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_numen_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_numen
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -766,14 +765,14 @@ culture_royal_elden_ring = {
 	}
 }
 
-culture_northerner_elden_ring = { 
+cul_northerner = { 
 	color = { 0.8 0.2 0.1 }
-	parents = { culture_giant_elden_ring culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_giant cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -799,14 +798,14 @@ culture_northerner_elden_ring = {
 	}
 }
 
-culture_liurnia_elden_ring = { 
+cul_liurnia = { 
 	color = { 0.10 0.10 0.80 }
-	parents = { culture_astrologer_elden_ring culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_astrologer cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -832,19 +831,19 @@ culture_liurnia_elden_ring = {
 	}
 }
 
-culture_caria_elden_ring = { 
+cul_caria = { 
 	color = { 0.25 0.05 0.80 }
-	parents = { culture_astrologer_elden_ring culture_lands_between_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_astrologer cul_lands_between }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_astrologer_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_astrologer
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
 		tradition_carian_royal
-		tradition_philosopher_culture
+		tradition_philosopher_cul
 		tradition_wetlanders	
 		tradition_hereditary_hierarchy
 	}
@@ -865,14 +864,14 @@ culture_caria_elden_ring = {
 	}
 }
 
-culture_sellia_elden_ring = { 
+cul_sellia = { 
 	color = { 0.6 0.10 0.6 }
-	parents = { culture_liurnia_elden_ring culture_nox_elden_ring }
-	history_loc_override = created_long_ago_elden_ring_loc
+	parents = { cul_liurnia cul_nox }
+	history_loc_override = created_long_ago_loc
 	created = 476.11.4
 	ethos = ethos_courtly
-	heritage = heritage_lands_between_elden_ring
-	language = language_lands_between_elden_ring
+	heritage = heritage_lands_between
+	language = language_lands_between
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -898,12 +897,12 @@ culture_sellia_elden_ring = {
 	}
 }
 
-culture_eochaid_elden_ring = { #elmer of the briar in shaded castle
+cul_eochaid = { #elmer of the briar in shaded castle
 	color = { 0.80 0.50 0.1 }
 
 	ethos = ethos_bellicose
-	heritage = heritage_eochaid_elden_ring
-	language = language_eochaid_elden_ring
+	heritage = heritage_eochaid
+	language = language_eochaid
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
@@ -929,16 +928,16 @@ culture_eochaid_elden_ring = { #elmer of the briar in shaded castle
 	}
 }
 
-culture_beast_elden_ring = { #gurranq
+cul_beast = { #gurranq
 	color = { 0.80 0.50 0.1 }
 
 	ethos = ethos_bellicose
-	heritage = heritage_beast_elden_ring
-	language = language_beast_elden_ring
+	heritage = heritage_beast
+	language = language_beast
 	martial_custom = martial_custom_male_only
 	head_determination = head_determination_domain
 	traditions = {
-		tradition_philosopher_culture
+		tradition_philosopher_cul
 		tradition_faith_bound
 		tradition_frugal_armorsmiths
 		tradition_beast_clergy

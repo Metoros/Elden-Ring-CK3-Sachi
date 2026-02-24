@@ -1,108 +1,108 @@
-heritage_lands_between_elden_ring = {
+heritage_lands_between = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_lands_between_elden_ring
+			HERITAGE = heritage_lands_between
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_giant_elden_ring = {
+heritage_giant = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_giant_elden_ring
+			HERITAGE = heritage_giant
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_beast_elden_ring = {
+heritage_beast = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_beast_elden_ring
+			HERITAGE = heritage_beast
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_eochaid_elden_ring = {
+heritage_eochaid = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_eochaid_elden_ring
+			HERITAGE = heritage_eochaid
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_reedlander_elden_ring = {
+heritage_reedlander = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_reedlander_elden_ring
+			HERITAGE = heritage_reedlander
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_draconian_elden_ring = {
+heritage_draconian = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_draconian_elden_ring
+			HERITAGE = heritage_draconian
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_nightfolk_elden_ring = {
+heritage_nightfolk = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_nightfolk_elden_ring
+			HERITAGE = heritage_nightfolk
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_numen_elden_ring = {
+heritage_numen = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			HERITAGE = heritage_numen_elden_ring
+			HERITAGE = heritage_numen
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_astrologer_elden_ring = {
+heritage_astrologer = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			heritage = heritage_astrologer_elden_ring
+			heritage = heritage_astrologer
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_ancenstral_followers_elden_ring = {
+heritage_ancenstral_followers = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			heritage = heritage_ancenstral_followers_elden_ring
+			heritage = heritage_ancenstral_followers
 		}
 	}
 	audio_parameter = european
 }
 
-heritage_hornsent_elden_ring = {
+heritage_hornsent = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
-			heritage = heritage_hornsent_elden_ring
+			heritage = heritage_hornsent
 		}
 	}
 	audio_parameter = european
