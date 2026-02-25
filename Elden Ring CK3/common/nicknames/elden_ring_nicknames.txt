@@ -43,3 +43,5 @@ nick_loathsome = { is_prefix = yes }
 nick_ever_brilliant = { is_prefix = yes }
 nick_big = { is_prefix = yes }
 nick_needle_knight = { is_prefix = yes }
+nick_dryleaf = { is_prefix = yes }
+nick_soldier_of_god = { is_prefix = yes }
