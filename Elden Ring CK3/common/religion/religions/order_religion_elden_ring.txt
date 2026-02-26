@@ -1,5 +1,5 @@
-﻿order_religion_elden_ring = {
-	family = rf_elden_ring_order
+﻿order_religion = {
+	family = rf_order
 
 	doctrine = pagan_hostility_doctrine
 

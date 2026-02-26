@@ -1,5 +1,5 @@
 ﻿cosmos_religion = {
-	family = rf_pagan
+	family = rf_cosmos
 
 	doctrine = pagan_hostility_doctrine
 

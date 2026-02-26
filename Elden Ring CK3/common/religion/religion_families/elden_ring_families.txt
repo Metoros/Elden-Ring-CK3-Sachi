@@ -1,13 +1,27 @@
-﻿rf_elden_ring_order = {
+﻿rf_order = {
 	graphical_faith = "orthodox_gfx"
 	hostility_doctrine = abrahamic_hostility_doctrine
 	doctrine_background_icon = core_tenet_banner_christian.dds
 }
 
-rf_elden_ring_crucible = {
+rf_crucible = {
 	is_pagan = yes
 	piety_icon_group = "pagan"
 	graphical_faith = "pagan_gfx"
 	hostility_doctrine = pagan_hostility_doctrine
 	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_cosmos = {
+	is_pagan = yes
+	piety_icon_group = "pagan"
+	graphical_faith = "pagan_gfx"
+	hostility_doctrine = pagan_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}
+
+rf_others = {
+	graphical_faith = "orthodox_gfx"
+	hostility_doctrine = abrahamic_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_christian.dds
 }

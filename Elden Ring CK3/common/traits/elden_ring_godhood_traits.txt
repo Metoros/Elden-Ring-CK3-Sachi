@@ -36,14 +36,13 @@ god_elden_ring = {
 	
 	opposites = {
 		empyrean_elden_ring
-		demigod_elden_ring
 	}
 	
 }
 
 demigod_elden_ring_4 = {
 	category = health
-	icon = "demigod_elden_ring.dds"
+	icon = "demigod_tier4.dds"
 	#shown_in_ruler_designer = no
 	ruler_designer_cost = 500
 	#immortal = yes
@@ -68,7 +67,7 @@ demigod_elden_ring_4 = {
 
 demigod_elden_ring_3 = {
 	category = health
-	icon = "demigod_elden_ring.dds"
+	icon = "demigod_tier3.dds"
 	#shown_in_ruler_designer = no
 	ruler_designer_cost = 375
 	#immortal = yes
@@ -93,7 +92,7 @@ demigod_elden_ring_3 = {
 
 demigod_elden_ring_2 = {
 	category = health
-	icon = "demigod_elden_ring.dds"
+	icon = "demigod_tier2.dds"
 	#shown_in_ruler_designer = no
 	ruler_designer_cost = 250
 	#immortal = yes
@@ -118,7 +117,7 @@ demigod_elden_ring_2 = {
 
 demigod_elden_ring_1 = {
 	category = health
-	icon = "demigod_elden_ring.dds"
+	icon = "demigod_tier1.dds"
 	#shown_in_ruler_designer = no
 	ruler_designer_cost = 125
 	#immortal = yes
@@ -192,7 +191,7 @@ eternal_youth_elden_ring = {
 tarnished_elden_ring = {
 	category = health
 	#shown_in_ruler_designer = no
-	ruler_designer_cost = 25
+	ruler_designer_cost = 1
 	monthly_prestige_gain_mult = -0.15
 	monthly_piety_gain_mult = -0.15
 	no_prowess_loss_from_age = yes
