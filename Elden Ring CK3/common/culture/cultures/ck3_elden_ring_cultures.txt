@@ -1,4 +1,4 @@
-#REMBEMBER TO ADD TO elden_cult_descs_sgui.txt
+#REMBEMBER TO ADD TO elden_cult_descs_sgui.txt if you want to give them a description
 #base cultures
 cul_landsbetween = { 
 	color = { 0.98 0.79 0.24 }

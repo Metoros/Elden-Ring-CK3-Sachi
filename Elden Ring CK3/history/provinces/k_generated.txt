@@ -20,7 +20,7 @@
 }
 5 = {
 	culture = cul_gelmir
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 6 = {
@@ -65,7 +65,7 @@
 }
 14 = {
 	culture = cul_liurnia
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 15 = {
@@ -384,7 +384,7 @@
 }
 85 = {
 	culture = cul_liurnia
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 86 = {
@@ -493,7 +493,7 @@
 }
 110 = {
 	culture = cul_gelmir
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 111 = {
@@ -843,7 +843,7 @@
 }
 194 = {
 	culture = cul_limgrave
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 195 = {
@@ -2824,7 +2824,7 @@
 }
 729 = {
 	culture = cul_northerner
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 730 = {
@@ -4732,7 +4732,7 @@
 }
 1331 = {
 	culture = cul_northerner
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 1332 = {
@@ -5062,7 +5062,7 @@
 }
 1437 = {
 	culture = cul_altus
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 1438 = {
@@ -7255,7 +7255,7 @@
 }
 2156 = {
 	culture = cul_limgrave
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 2157 = {
@@ -7584,7 +7584,7 @@
 }
 2265 = {
 	culture = cul_northerner
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 2266 = {
@@ -8214,7 +8214,7 @@
 }
 2473 = {
 	culture = cul_altus
-	religion = death_prince_order
+	religion = faith_death_prince
 	holding = castle_holding
 }
 2474 = {

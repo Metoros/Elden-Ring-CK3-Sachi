@@ -217,8 +217,8 @@
 	faiths = {
 		faith_spiral = {
 			color = { 0.7 0.7 0.5 }
-			reformed_icon = spiral_faith
-			icon = spiral_faith
+			reformed_icon = faith_spiral
+			icon = faith_spiral
 			doctrine = unreformed_faith_doctrine
 
 			holy_site = scadutree_chalice

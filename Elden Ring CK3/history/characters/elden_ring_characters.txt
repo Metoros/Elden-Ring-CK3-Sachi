@@ -827,7 +827,7 @@ godefroy = {
 	religion = faith_golden	
 	culture = cul_royal
 	
-	trait = demigod_elden_ring_2
+	trait = demigod_elden_ring_3
 	
 	disallow_random_traits = yes
 	father = godwyn
@@ -939,7 +939,7 @@ godrick = {
 	culture = cul_royal
 	give_nickname = nick_the_grafted
 	
-	trait = demigod_elden_ring_1
+	trait = demigod_elden_ring_2
 	trait = education_stewardship_2
 	trait = physique_bad_1
 	trait = arrogant
@@ -1190,7 +1190,7 @@ zorayas = {
 	give_nickname = nick_the_scout
 	religion = faith_god_snake	
 	culture = cul_gelmir
-	trait = demigod_elden_ring_4
+	trait = demigod_elden_ring_3
 	trait = humble
 	trait = trusting
 	trait = diligent

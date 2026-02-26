@@ -36,6 +36,8 @@ god_elden_ring = {
 	
 	opposites = {
 		empyrean_elden_ring
+		incapable
+		cancer
 	}
 	
 }
@@ -55,13 +57,15 @@ demigod_elden_ring_4 = {
 	
 	ai_greed = very_high_positive_ai_value
 	ai_energy = very_high_positive_ai_value
-	genetic = yes
+	###genetic = yes #i am commenting this becouse the blood is not being inherited
 	ai_boldness = high_positive_ai_value
 	
 	opposites = {
 		god_elden_ring_1
 		god_elden_ring_2
 		god_elden_ring_3
+		incapable
+		cancer
 	}
 }
 
@@ -80,13 +84,15 @@ demigod_elden_ring_3 = {
 	
 	ai_greed = very_high_positive_ai_value
 	ai_energy = very_high_positive_ai_value
-	genetic = yes
+	##genetic = yes #i am commenting this becouse the blood is not being inherited
 	ai_boldness = high_positive_ai_value
 	
 	opposites = {
 		god_elden_ring_1
 		god_elden_ring_2
 		god_elden_ring_4
+		incapable
+		cancer
 	}
 }
 
@@ -105,13 +111,15 @@ demigod_elden_ring_2 = {
 	
 	ai_greed = very_high_positive_ai_value
 	ai_energy = very_high_positive_ai_value
-	genetic = yes
+	##genetic = yes #i am commenting this becouse the blood is not being inherited
 	ai_boldness = high_positive_ai_value
 	
 	opposites = {
 		god_elden_ring_1
 		god_elden_ring_3
 		god_elden_ring_4
+		incapable
+		cancer
 	}
 }
 
@@ -130,13 +138,15 @@ demigod_elden_ring_1 = {
 	
 	ai_greed = very_high_positive_ai_value
 	ai_energy = very_high_positive_ai_value
-	genetic = yes
+	##genetic = yes #i am commenting this becouse the blood is not being inherited
 	ai_boldness = high_positive_ai_value
 	
 	opposites = {
 		god_elden_ring_2
 		god_elden_ring_3
 		god_elden_ring_4
+		incapable
+		cancer
 	}
 }
 
