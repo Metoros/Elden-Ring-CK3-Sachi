@@ -12,14 +12,18 @@ on_action_ambitious_demigod_becomes_empyrean = {
 		if = { # an empyrean becomes an adventurer
 			limit = {
 				AND = {
-					has_trait = demigod_elden_ring
+					OR = {
+						has_trait = demigod_elden_ring_4
+						has_trait = demigod_elden_ring_3
+						has_trait = demigod_elden_ring_2
+						has_trait = demigod_elden_ring_1
+					}
 					has_trait = ambitious
 					is_adult = yes
 					is_ruler = no
 					is_ai = yes
 				}	
 			}
-			remove_trait = demigod_elden_ring
 			add_trait = empyrean_elden_ring
 		}
 		

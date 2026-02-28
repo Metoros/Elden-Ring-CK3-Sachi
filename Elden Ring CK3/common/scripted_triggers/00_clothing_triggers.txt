@@ -697,15 +697,15 @@ portrait_fp2_iberian_muslim_clothing_trigger = {
 			CULTURE_SCOPE = scope:culture
 			CULTURE_FLAG = iberian_muslim
 		}
-		trigger_if = {
-			limit = { exists = this	}
-			AND = {
-				religion = religion:islam_religion
-				capital_province ?= {
-					geographical_region = world_europe_west_iberia
-				}
-			}
-		}
+		# trigger_if = {
+			# limit = { exists = this	}
+			# AND = {
+				# religion = religion:islam_religion
+				# capital_province ?= {
+					# geographical_region = world_europe_west_iberia
+				# }
+			# }
+		# }
 	}
 }
 
@@ -732,15 +732,15 @@ portrait_fp2_iberian_christian_clothing_trigger = {
 			CULTURE_SCOPE = scope:culture
 			CULTURE_FLAG = iberian_christian
 		}
-		trigger_if = {
-			limit = { exists = this }
-			AND = {
-				religion = religion:christianity_religion
-				capital_province ?= {
-					geographical_region = world_europe_west_iberia
-				}
-			}
-		}
+		# trigger_if = {
+			# limit = { exists = this }
+			# AND = {
+				# religion = religion:christianity_religion
+				# capital_province ?= {
+					# geographical_region = world_europe_west_iberia
+				# }
+			# }
+		# }
 	}
 }
 
