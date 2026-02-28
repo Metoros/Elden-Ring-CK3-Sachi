@@ -93,10 +93,7 @@ create_elden_ring_decisions = {
 		is_independent_ruler = yes
         is_landed = yes
 		piety_level >= high_piety_level
-		OR = {
-			has_trait = demigod_elden_ring
-			has_trait = empyrean_elden_ring
-		}
+		has_godhood_elden_ring = yes
 		custom_tooltip = {
 			text = has_great_rune_for_elden_ring
 			any_character_artifact = { has_variable = great_rune_variable }

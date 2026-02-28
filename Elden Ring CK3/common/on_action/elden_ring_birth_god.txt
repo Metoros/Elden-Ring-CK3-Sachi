@@ -27,27 +27,27 @@ on_action_child_birth_god = {
 				}
 			}
 			if = { # Both parents are gods
-			limit = {
-				AND = {
-					scope:real_father = {
-						has_trait = god_elden_ring
-					}
-					scope:mother = {
-						has_trait = god_elden_ring
+				limit = {
+					AND = {
+						scope:real_father = {
+							has_trait = god_elden_ring
+						}
+						scope:mother = {
+							has_trait = god_elden_ring
+						}
 					}
 				}
-			}
-			add_trait = demigod_elden_ring_4
-			add_trait = empyrean_elden_ring
-			random_list = {
-				10 = {
-					add_trait = eternal_youth_elden_ring
+				add_trait = demigod_elden_ring_4
+				add_trait = empyrean_elden_ring
+				random_list = {
+					10 = {
+						add_trait = eternal_youth_elden_ring
+					}
+					90 = {
+					
+					}		
 				}
-				90 = {
-				
-				}		
 			}
-		}
 			else_if = { # one of the parents is a god
 				limit = {
 					OR = {
@@ -72,14 +72,14 @@ on_action_child_birth_god = {
 						}
 					}
 				}
-				add_trait = demigod_elden_ring_3
+				
 				random_list = {
 					1 = {
 						add_trait = demigod_elden_ring_4
 					}
 					99 = {
 						add_trait = demigod_elden_ring_3
-					}		
+					}
 				}
 			}
 			else_if = { # the blood gets weaker 3->2
