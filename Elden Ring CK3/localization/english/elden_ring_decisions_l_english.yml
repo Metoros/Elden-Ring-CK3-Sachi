@@ -127,3 +127,20 @@ gain_nickname_elden_ring:0 "Gain Nickname"
 gain_nickname_elden_ring_desc:0 "I can declare that i want to use a new title to denote my power."
 gain_nickname_elden_ring_confirm:0 "People should refer to me in a new way"
 gain_nickname_elden_ring_tooltip:0 "Gain Nickname"
+
+###Prosthesis
+wear_prosthesis_decision:0 "Wear Prosthesis"
+wear_prosthesis_decision_desc:0 "A finely crafted false limb awaits fitting. Though costly, it restores both dignity and strength to one who has lost much."
+wear_prosthesis_decision_tooltip:0 "Install a masterwork prosthesis, restoring mobility and martial capability."
+wear_prosthesis_decision_confirm:0 "I will rise anew with this false limb."
+
+remove_prosthesis_decision:0 "Remove Prosthesis"
+remove_prosthesis_decision_desc:0 "The false limb may be removed, though doing so leaves one once again reliant upon will alone."
+remove_prosthesis_decision_tooltip:0 "Remove your false limb."
+remove_prosthesis_decision_confirm:0 "I will rely on my own strength once more."
+
+wear_prosthesis_title:0 "The Fitting of Steel"
+wear_prosthesis_desc:0 "Artisans prepare the false limb carefully. Leather straps are tightened, mechanisms aligned. As the final clasps are secured, balance returns — not as it once was, but strong enough."
+wear_prosthesis_option:0 "I rise anew."
+wear_prosthesis_cancel_option:0 "Not yet."
+

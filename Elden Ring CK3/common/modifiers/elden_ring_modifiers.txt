@@ -47,3 +47,10 @@ dragon_eaten_5 = {
 	health = 1.5
 	life_expectancy = -15
 }
+
+prosthesis_modifier = {
+	icon = treatment_positive
+	monthly_prestige = 0.5
+	martial = 2
+	prowess = 4
+}

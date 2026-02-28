@@ -1,0 +1,43 @@
+﻿nugget = {
+
+    diplomacy = -2
+	martial = -2
+	stewardship = -2
+	intrigue = -2
+	learning = -3
+	prowess = -8
+	
+	culture_modifier = {
+		parameter = wounds_and_scars_give_bonuses
+		monthly_prestige_gain_mult = 0.4
+		same_culture_opinion = 25
+	}
+
+	culture_modifier = {
+		parameter = palace_politics_trait_maluses
+		monthly_influence = -0.65
+	}
+
+	category = health
+
+	dread_baseline_add = -25
+	dread_loss_mult = 2
+	
+	attraction_opinion = -20
+	
+	same_opinion = 10
+	
+	shown_in_ruler_designer = no
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_nugget_desc
+			}
+			desc = trait_nugget_character_desc
+		}
+	}
+}

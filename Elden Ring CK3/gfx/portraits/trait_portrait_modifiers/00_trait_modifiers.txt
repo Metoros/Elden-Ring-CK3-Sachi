@@ -74,40 +74,40 @@
 		dna_modifiers = {
 			human = {
 				# morph = {
-					# mode = modify
-					# gene = gene_chin_forward
-					# template = chin_forward_pos
-					# value = 0.5
+				# mode = modify
+				# gene = gene_chin_forward
+				# template = chin_forward_pos
+				# value = 0.5
 				# }
 				# morph = {
-					# mode = modify
-					# gene = gene_bs_forehead_brow_forward
-					# template = forehead_brow_forward_pos
-					# value = 0.6
+				# mode = modify
+				# gene = gene_bs_forehead_brow_forward
+				# template = forehead_brow_forward_pos
+				# value = 0.6
 				# }
 				# morph = {
-					# mode = modify
-					# gene = gene_forehead_height
-					# template = forehead_height_neg
-					# value = -0.5
+				# mode = modify
+				# gene = gene_forehead_height
+				# template = forehead_height_neg
+				# value = -0.5
 				# }
 				# morph = {
-					# mode = modify
-					# gene = gene_head_height
-					# template = head_height_pos
-					# value = 0.25
+				# mode = modify
+				# gene = gene_head_height
+				# template = head_height_pos
+				# value = 0.25
 				# }
 				# morph = {
-					# mode = modify
-					# gene = gene_jaw_height
-					# template = jaw_height_pos
-					# value = 0.5
+				# mode = modify
+				# gene = gene_jaw_height
+				# template = jaw_height_pos
+				# value = 0.5
 				# }
 				# morph = {
-					# mode = modify
-					# gene = gene_jaw_forward
-					# template = jaw_forward_pos
-					# value = 0.25
+				# mode = modify
+				# gene = gene_jaw_forward
+				# template = jaw_forward_pos
+				# value = 0.25
 				# }
 				morph = {
 					mode = modify_multiply
@@ -121,42 +121,42 @@
 }
 
 # beauty = {
-	# beauty = {
-		# traits = {
-			# beauty_good_1
-			# beauty_good_2
-			# beauty_good_3
-		# }
+# beauty = {
+# traits = {
+# beauty_good_1
+# beauty_good_2
+# beauty_good_3
+# }
 
-		# dna_modifiers = {
-			# human = {
-				# morph = {
-					# mode = replace
-					# gene = complexion
-					# template = complexion_beauty_1
-					# value = 1.0
-				# }
-			# }
-		# }
-	# }
+# dna_modifiers = {
+# human = {
+# morph = {
+# mode = replace
+# gene = complexion
+# template = complexion_beauty_1
+# value = 1.0
+# }
+# }
+# }
+# }
 
-	# ugly = {
-		# traits = {
-			# beauty_bad_1
-			# beauty_bad_2
-			# beauty_bad_3
-		# }
-		# dna_modifiers = {
-			# human = {
-				# morph = {
-					# mode = replace
-					# gene = complexion
-					# template = complexion_ugly_1
-					# value = 1.0
-				# }
-			# }
-		# }
-	# }
+# ugly = {
+# traits = {
+# beauty_bad_1
+# beauty_bad_2
+# beauty_bad_3
+# }
+# dna_modifiers = {
+# human = {
+# morph = {
+# mode = replace
+# gene = complexion
+# template = complexion_ugly_1
+# value = 1.0
+# }
+# }
+# }
+# }
 # }
 
 albino = {
@@ -813,6 +813,39 @@ one_legged = {
 					gene = gene_one_legged
 					value = 1.0
 					template = no_left_leg
+				}
+				accessory = {
+					mode = add
+					gene = special_legwear
+					template = special_wooden_leg
+					value = 0.5
+				}
+			}
+		}
+	}
+}
+
+nugget = {
+	nugget = {
+		traits = {
+			nugget
+		}
+		dna_modifiers = {
+			human = {
+				trigger = {
+					NOT = { has_character_modifier = prosthesis_modifier }
+				}
+				morph = {
+					mode = add
+					gene = gene_one_legged
+					value = 1.0
+					template = no_left_leg
+				}
+				morph = {
+					mode = add
+					gene = gene_maimed_left_arm
+					value = 1.0
+					template = maimed_left_arm
 				}
 				accessory = {
 					mode = add

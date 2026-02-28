@@ -178,3 +178,6 @@ trait_black_flame_affinity_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has
 trait_bestial_affinity_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has an Affinity for using Bestial incantations, they center on using strength to do damage, they were used by the beast clergy of Farum Azula."
 trait_sleep_affinity_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has an Affinity for artifacts and weapons that relate to sleep, they have an easier time resting their mind and body, and are very friendly."
 trait_spiral_affinity_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has an Affinity for the Crucible that is more controled, and centered on reaching the divine power of the gods."
+
+trait_nugget:0 "Nugget"
+trait_nugget_character_desc:0 "Whether lost in battle or ill fortune, [ROOT.GetCharacter.GetFirstNameNoTooltip] is without both leg and arm."

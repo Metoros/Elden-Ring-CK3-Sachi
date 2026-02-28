@@ -1,0 +1,35 @@
+﻿namespace = wear_prosthesis
+
+wear_prosthesis.0001 = {
+    theme = crown
+    type = character_event
+    title = wear_prosthesis_title
+    desc = wear_prosthesis_desc
+    picture = ep2_hunt_snowy_forest
+
+    option = {
+        name = wear_prosthesis_option
+
+        add_gold = -100
+        add_prestige = 100
+
+        add_character_modifier = {
+            modifier = prosthesis_modifier
+        }
+    }
+
+    option = {
+        name = wear_prosthesis_cancel_option
+    }
+
+    # option = {
+    #     name = remove_prosthesis_option
+
+    #     add_gold = -100
+    #     add_prestige = 100
+
+    #     remove_character_modifier = { 
+    #         modifier = prosthesis_modifier
+    #     }
+    # }
+}
