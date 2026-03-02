@@ -788,19 +788,19 @@ tradition_visigothic_codes = {
 		# }
 	}
 	can_pick = {
-		OR = {
-			this = culture:visigothic
-			this = culture:basque
-			any_parent_culture_or_above = {
-				OR = {
-					this = culture:visigothic
-					this = culture:basque
-				}
-			}
-		}
-		scope:character = {
-			has_religion = religion:christianity_religion #The Visigothic code is strongly associated with Christian canon law.
-		}
+		# OR = {
+			# this = culture:visigothic
+			# this = culture:basque
+			# any_parent_culture_or_above = {
+				# OR = {
+					# this = culture:visigothic
+					# this = culture:basque
+				# }
+			# }
+		# }
+		# scope:character = {
+			# has_religion = religion:christianity_religion #The Visigothic code is strongly associated with Christian canon law.
+		# }
 	}
 
 	parameters = {

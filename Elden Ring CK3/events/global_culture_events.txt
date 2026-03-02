@@ -1037,73 +1037,73 @@ scripted_trigger global_culture_3011_valid_for_sicilian_culture_trigger = {
 	}
 }
 
-global_culture.3011 = {
-	type = character_event
-	title = global_culture.3011.t
-	desc = global_culture.3011.desc
-	theme = culture_change
-	left_portrait = root
+# global_culture.3011 = {
+	# type = character_event
+	# title = global_culture.3011.t
+	# desc = global_culture.3011.desc
+	# theme = culture_change
+	# left_portrait = root
 	
-	trigger = {
-		culture = {
-			NOT = { this = culture:sicilian }
-			OR = {
-				has_cultural_pillar = heritage_latin
-				has_cultural_pillar = heritage_berber
-				has_cultural_pillar = heritage_byzantine
-				has_cultural_pillar = heritage_frankish
-				has_cultural_pillar = heritage_arabic
-			}
-		}
-		any_held_title = {
-			global_culture_3011_valid_for_sicilian_culture_trigger = yes
-		}		
-	}
+	# trigger = {
+		# culture = {
+			# NOT = { this = culture:sicilian }
+			# OR = {
+				# has_cultural_pillar = heritage_latin
+				# has_cultural_pillar = heritage_berber
+				# has_cultural_pillar = heritage_byzantine
+				# has_cultural_pillar = heritage_frankish
+				# has_cultural_pillar = heritage_arabic
+			# }
+		# }
+		# any_held_title = {
+			# global_culture_3011_valid_for_sicilian_culture_trigger = yes
+		# }		
+	# }
 
-	weight_multiplier = {
-		base = 1
-		modifier = {
-			add = 2
-			culture = culture:norman
-		}
-	}
+	# weight_multiplier = {
+		# base = 1
+		# modifier = {
+			# add = 2
+			# culture = culture:norman
+		# }
+	# }
 
-	immediate = {
-		random_held_title = {
-			limit = {
-				global_culture_3011_valid_for_sicilian_culture_trigger = yes
-			}
-			weight = { # Try to approximate organic spread
-				base = 1
-				modifier = {
-					add = 4
-					any_neighboring_county = {
-						culture = culture:sicilian
-					}
-				}
-			}
-			save_scope_as = county_to_change
-			culture = {
-				save_scope_as = old_culture
-			}
-			set_variable = {
-				name = had_sicilian_county_conversion
-				value = yes
-			}
-		}
-		culture:sicilian = {
-			save_scope_as = sicilian # For loc
-		}
-		debug_log = "Converted a province to Sicilian from global_culture.3011"
-	}
+	# immediate = {
+		# random_held_title = {
+			# limit = {
+				# global_culture_3011_valid_for_sicilian_culture_trigger = yes
+			# }
+			# weight = { # Try to approximate organic spread
+				# base = 1
+				# modifier = {
+					# add = 4
+					# any_neighboring_county = {
+						# culture = culture:sicilian
+					# }
+				# }
+			# }
+			# save_scope_as = county_to_change
+			# culture = {
+				# save_scope_as = old_culture
+			# }
+			# set_variable = {
+				# name = had_sicilian_county_conversion
+				# value = yes
+			# }
+		# }
+		# culture:sicilian = {
+			# save_scope_as = sicilian # For loc
+		# }
+		# debug_log = "Converted a province to Sicilian from global_culture.3011"
+	# }
 
-	option = {
-		name = global_culture.3011.a
-		scope:county_to_change = {
-			set_county_culture = culture:sicilian
-		}
-	}
-}
+	# option = {
+		# name = global_culture.3011.a
+		# scope:county_to_change = {
+			# set_county_culture = culture:sicilian
+		# }
+	# }
+# }
 
 
 ################################
@@ -1147,7 +1147,7 @@ global_culture.3012 = {
 	left_portrait = root
 	
 	trigger = {
-		culture = culture:sicilian
+		# culture = culture:sicilian
 		any_held_title = {
 			global_culture_3012_valid_for_sicilian_culture_trigger = yes
 		}

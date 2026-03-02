@@ -8,11 +8,7 @@ kingdom_conquest_cb_elden_ring_empyrean = {
 	mutually_exclusive_titles = { always = yes }
 
 	allowed_for_character = {
-		OR = {
-			has_trait = god_elden_ring
-			has_trait = empyrean_elden_ring
-			has_trait = demigod_elden_ring
-		}
+		has_godhood_elden_ring = yes
 	}
 
 	allowed_against_character = {
